@@ -1,0 +1,1001 @@
+accident_index,accident_date,day_of_week,junction_control,junction_detail,accident_severity,light_conditions,local_authority,carriageway_hazards,number_of_casualties,number_of_vehicles,police_force,road_surface_conditions,road_type,speed_limit,time,urban_or_rural_area,weather_conditions,vehicle_type
+BS0000001,,Thursday,Give way or uncontrolled,T or staggered junction,Serious,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,One way street,30,15:11,Urban,Fine no high winds,Car
+BS0000002,,Monday,Give way or uncontrolled,Crossroads,Serious,Daylight,Kensington and Chelsea,,11,2,Metropolitan Police,Wet or damp,Single carriageway,30,10:59,Urban,Fine no high winds,Taxi/Private hire car
+BS0000003,,Sunday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,14:19,Urban,Fine no high winds,Taxi/Private hire car
+BS0000004,,Monday,Auto traffic signal,T or staggered junction,Serious,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Frost or ice,Single carriageway,30,8:10,Urban,Other,Motorcycle over 500cc
+BS0000005,,Tuesday,Auto traffic signal,Crossroads,Serious,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,17:25,Urban,Fine no high winds,Car
+BS0000006,,Thursday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,3,2,Metropolitan Police,Dry,Single carriageway,30,11:48,Urban,Fine no high winds,Car
+BS0000007,,Thursday,Give way or uncontrolled,T or staggered junction,Serious,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,13:58,Urban,Fine no high winds,Motorcycle over 500cc
+BS0000008,,Friday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Dual carriageway,30,13:18,Urban,Fine no high winds,Car
+BS0000009,,Wednesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,2,1,Metropolitan Police,Dry,Single carriageway,30,12:15,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+BS0000010,,Saturday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Wet or damp,Single carriageway,30,9:52,Urban,Other,Car
+BS0000011,,Wednesday,Auto traffic signal,Crossroads,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,0:09,Urban,Fine no high winds,Car
+BS0000012,,Friday,Auto traffic signal,Crossroads,Slight,Darkness - lights lit,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,17:49,Urban,Fine no high winds,Car
+BS0000013,,Monday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,14:00,Urban,Raining no high winds,Car
+BS0000014,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,8:15,Urban,Raining no high winds,Car
+BS0000015,,Saturday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,12:15,Urban,Fine no high winds,Car
+BS0000016,,Sunday,Auto traffic signal,Crossroads,Serious,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,22:05,Urban,Fine no high winds,Car
+BS0000017,,Monday,Give way or uncontrolled,Crossroads,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,17:30,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+BS0000018,,Monday,Data missing or out of range,Not at junction or within 20 metres,Slight,Darkness - lights lit,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,17:05,Urban,Fine no high winds,Car
+BS0000019,,Monday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,14:27,Urban,Fine no high winds,Car
+BS0000020,,Tuesday,Data missing or out of range,Not at junction or within 20 metres,Slight,Darkness - lights lit,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,0:28,Urban,Fine no high winds,Car
+BS0000021,,Wednesday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,Kensington and Chelsea,,1,1,Metropolitan Police,Wet or damp,Single carriageway,30,23:15,Urban,Raining no high winds,Car
+BS0000022,,Thursday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,Kensington and Chelsea,,1,1,Metropolitan Police,Wet or damp,Single carriageway,30,23:15,Urban,Raining no high winds,Car
+BS0000023,,Saturday,Auto traffic signal,Crossroads,Serious,Daylight,Kensington and Chelsea,,2,2,Metropolitan Police,Dry,Single carriageway,30,14:20,Urban,Fine no high winds,Car
+BS0000024,,Tuesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Snow,Single carriageway,30,13:25,Urban,Other,Car
+BS0000025,,Saturday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,Kensington and Chelsea,,2,2,Metropolitan Police,Dry,Single carriageway,30,22:30,Urban,Fine no high winds,Car
+BS0000026,,Saturday,Give way or uncontrolled,T or staggered junction,Serious,Daylight,Kensington and Chelsea,,2,1,Metropolitan Police,Dry,Single carriageway,30,13:50,Urban,Fine no high winds,Car
+BS0000027,,Thursday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,8:20,Urban,Fine no high winds,Car
+BS0000028,,Saturday,Give way or uncontrolled,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,20,12:03,Urban,Fine no high winds,Car
+BS0000029,,Thursday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,15:50,Urban,Fine no high winds,Car
+BS0000030,,Saturday,Auto traffic signal,Crossroads,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,1:01,Urban,Fine no high winds,Car
+BS0000031,,Wednesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Wet or damp,One way street,30,7:45,Urban,Raining no high winds,Car
+BS0000032,,Tuesday,Auto traffic signal,Crossroads,Serious,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,12:30,Urban,Fine no high winds,Car
+BS0000033,,Saturday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Dual carriageway,30,10:08,Urban,Fine no high winds,Car
+BS0000034,,Thursday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,16:19,Urban,Fine no high winds,Car
+BS0000035,,Thursday,Auto traffic signal,T or staggered junction,Slight,Darkness - lights lit,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,20:35,Urban,Fine no high winds,Car
+BS0000036,,Tuesday,Auto traffic signal,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,13:27,Urban,Fine no high winds,Car
+BS0000037,,Saturday,Give way or uncontrolled,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,11:00,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+BS0000038,,Thursday,Give way or uncontrolled,T or staggered junction,Serious,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,11:30,Urban,Fine no high winds,Car
+BS0000039,,Monday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,9:15,Urban,Raining no high winds,Car
+BS0000040,,Wednesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,11:15,Urban,Raining no high winds,Car
+BS0000041,,Friday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,2,1,Metropolitan Police,Wet or damp,Single carriageway,30,11:15,Urban,Fine no high winds,Car
+BS0000042,,Monday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,14:40,Urban,Fine no high winds,Car
+BS0000043,,Tuesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,One way street,30,9:58,Urban,Fine no high winds,Car
+BS0000044,,Tuesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Wet or damp,One way street,30,8:10,Urban,Fine no high winds,Car
+BS0000045,,Friday,Auto traffic signal,Roundabout,Slight,Daylight,Hammersmith and Fulham,,1,2,Metropolitan Police,Dry,Dual carriageway,30,8:28,Urban,Fine no high winds,Goods over 3.5t. and under 7.5t
+BS0000046,,Wednesday,Data missing or out of range,Not at junction or within 20 metres,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,19:53,Urban,Raining no high winds,Car
+BS0000047,,Thursday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,14:05,Urban,Fine no high winds,Motorcycle 125cc and under
+BS0000048,,Tuesday,Data missing or out of range,Not at junction or within 20 metres,Serious,Darkness - lights lit,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,23:55,Urban,Fine no high winds,Car
+BS0000049,,Tuesday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Wet or damp,Single carriageway,30,8:35,Urban,Fine no high winds,Car
+BS0000050,,Thursday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,7:53,Urban,Fine no high winds,Car
+BS0000051,,Monday,Auto traffic signal,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,12:00,Urban,Fine no high winds,Car
+BS0000052,,Monday,Auto traffic signal,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Dual carriageway,30,8:25,Urban,Fine no high winds,Car
+BS0000053,,Saturday,Data missing or out of range,Not at junction or within 20 metres,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,21:06,Urban,Fine no high winds,Car
+BS0000054,,Wednesday,Auto traffic signal,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Wet or damp,Single carriageway,30,7:09,Urban,Fine no high winds,Car
+BS0000055,,Saturday,Data missing or out of range,Not at junction or within 20 metres,Slight,Darkness - lights lit,Kensington and Chelsea,,2,1,Metropolitan Police,Dry,Single carriageway,30,20:42,Urban,Fine no high winds,Car
+BS0000056,,Sunday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,0:35,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+BS0000057,,Saturday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,One way street,30,10:15,Urban,Fine no high winds,Car
+BS0000058,,Thursday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,16:50,Urban,Snowing no high winds,Car
+BS0000059,,Thursday,Auto traffic signal,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,12:20,Urban,Fine no high winds,Car
+BS0000060,,Friday,Give way or uncontrolled,Roundabout,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Roundabout,30,23:15,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+BS0000061,,Friday,Give way or uncontrolled,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,15:40,Urban,Fine no high winds,Car
+BS0000062,,Sunday,Data missing or out of range,Not at junction or within 20 metres,Slight,Darkness - lights lit,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,16:46,Urban,Fine no high winds,Car
+BS0000063,,Saturday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,2,2,Metropolitan Police,Dry,Single carriageway,30,12:25,Urban,Fine no high winds,Car
+BS0000064,,Monday,Give way or uncontrolled,Roundabout,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Roundabout,30,13:23,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+BS0000065,,Sunday,Give way or uncontrolled,T or staggered junction,Serious,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,17:30,Urban,Fine no high winds,Car
+BS0000066,,Thursday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,22:55,Urban,Fine no high winds,Car
+BS0000067,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Dual carriageway,30,16:05,Urban,Fine no high winds,Car
+BS0000068,,Wednesday,Data missing or out of range,Not at junction or within 20 metres,Serious,Daylight,Kensington and Chelsea,,2,2,Metropolitan Police,Wet or damp,Single carriageway,30,8:36,Urban,Other,Car
+BS0000069,,Wednesday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,21:45,Urban,Fine no high winds,Car
+BS0000070,,Tuesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Dual carriageway,30,8:55,Urban,Fine no high winds,Car
+BS0000071,,Tuesday,Give way or uncontrolled,Crossroads,Slight,Daylight,Kensington and Chelsea,,2,2,Metropolitan Police,Dry,Single carriageway,30,8:30,Urban,Fine no high winds,Car
+BS0000072,,Tuesday,Give way or uncontrolled,Crossroads,Slight,Darkness - lights lit,Kensington and Chelsea,,1,1,Metropolitan Police,Wet or damp,Single carriageway,30,20:20,Urban,Raining no high winds,Motorcycle over 500cc
+BS0000073,,Wednesday,Give way or uncontrolled,Mini-roundabout,Slight,Daylight,Kensington and Chelsea,,3,2,Metropolitan Police,Dry,Roundabout,30,14:51,Urban,Fine no high winds,Motorcycle 50cc and under
+BS0000074,,Friday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,6:35,Urban,Fine no high winds,Car
+BS0000075,,Tuesday,Give way or uncontrolled,T or staggered junction,Serious,Darkness - lights lit,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,19:11,Urban,Fine no high winds,Motorcycle 125cc and under
+BS0000076,,Tuesday,Give way or uncontrolled,T or staggered junction,Serious,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,20:26,Urban,Raining no high winds,Taxi/Private hire car
+BS0000077,,Friday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,11:30,Urban,Fine no high winds,Car
+BS0000078,,Wednesday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,13:00,Urban,Fine no high winds,Car
+BS0000079,,Monday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,13:27,Urban,Fine no high winds,Car
+BS0000080,,Monday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,15:30,Urban,Fine no high winds,Car
+BS0000081,,Tuesday,Give way or uncontrolled,Roundabout,Serious,Daylight,Hammersmith and Fulham,,1,2,Metropolitan Police,Dry,Roundabout,30,13:30,Urban,Fine no high winds,Car
+BS0000082,,Tuesday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,One way street,30,16:50,Urban,Fine no high winds,Car
+BS0000083,,Monday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,3,Metropolitan Police,Dry,Single carriageway,30,10:40,Urban,Fine no high winds,Car
+BS0000084,,Monday,Give way or uncontrolled,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,7:40,Urban,Fine no high winds,Car
+BS0000085,,Wednesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,One way street,30,12:58,Urban,Fine no high winds,Car
+BS0000086,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,Kensington and Chelsea,,2,2,Metropolitan Police,Dry,Single carriageway,30,17:30,Urban,Fine no high winds,Car
+BS0000087,,Saturday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,17:04,Urban,Fine no high winds,Car
+BS0000088,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,18:15,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+BS0000089,,Monday,Give way or uncontrolled,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,15:53,Urban,Fine no high winds,Goods 7.5 tonnes mgw and over
+BS0000090,,Thursday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,13:45,Urban,Fine no high winds,Car
+BS0000091,,Saturday,Auto traffic signal,Crossroads,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,6:12,Urban,Fine no high winds,Car
+BS0000092,,Monday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,12:33,Urban,Fine no high winds,Car
+BS0000093,,Wednesday,Give way or uncontrolled,Crossroads,Serious,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,8:40,Urban,Fine no high winds,Car
+BS0000094,,Sunday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,13:05,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+BS0000095,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,17:30,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+BS0000096,,Wednesday,Auto traffic signal,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,7:05,Urban,Fine no high winds,Car
+BS0000097,,Saturday,Give way or uncontrolled,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,13:15,Urban,Other,Car
+BS0000098,,Tuesday,Auto traffic signal,Crossroads,Slight,Darkness - lights lit,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,23:00,Urban,Fine no high winds,Car
+BS0000099,,Tuesday,Give way or uncontrolled,T or staggered junction,Serious,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,8:00,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+BS0000100,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,8:59,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+BS0000101,,Thursday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Wet or damp,Single carriageway,30,8:40,Urban,Raining no high winds,Car
+BS0000102,,Friday,Data missing or out of range,Not at junction or within 20 metres,Slight,Darkness - lights lit,Kensington and Chelsea,,1,3,Metropolitan Police,Dry,One way street,30,20:18,Urban,Fine no high winds,Car
+BS0000103,,Friday,Give way or uncontrolled,T or staggered junction,Serious,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,15:00,Urban,Fine no high winds,Taxi/Private hire car
+BS0000104,,Tuesday,Auto traffic signal,Crossroads,Slight,Darkness - lights lit,Kensington and Chelsea,,2,2,Metropolitan Police,Dry,Single carriageway,30,22:15,Urban,Fine no high winds,Motorcycle 125cc and under
+BS0000105,,Saturday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,3,Metropolitan Police,Dry,Single carriageway,30,16:20,Urban,Fine no high winds,Motorcycle 50cc and under
+BS0000106,,Tuesday,Give way or uncontrolled,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,10:15,Urban,Fine no high winds,Motorcycle 125cc and under
+BS0000107,,Monday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,8:15,Urban,Fine no high winds,Motorcycle over 500cc
+BS0000108,,Monday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Wet or damp,Single carriageway,30,16:13,Urban,Raining no high winds,Car
+BS0000109,,Monday,Auto traffic signal,T or staggered junction,Serious,Darkness - lights lit,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,19:42,Urban,Fine no high winds,Car
+BS0000110,,Tuesday,Give way or uncontrolled,Crossroads,Serious,Darkness - lights lit,Kensington and Chelsea,,1,1,Metropolitan Police,Wet or damp,Single carriageway,30,22:22,Urban,Raining no high winds,Car
+BS0000111,,Tuesday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,14:12,Urban,Fine no high winds,Motorcycle 125cc and under
+BS0000112,,Tuesday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,7:53,Urban,Fine no high winds,Car
+BS0000113,,Saturday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,9:50,Urban,Fine no high winds,Car
+BS0000114,,Wednesday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,15:50,Urban,Fine no high winds,Goods 7.5 tonnes mgw and over
+BS0000115,,Friday,Auto traffic signal,Crossroads,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,20:15,Urban,Fine no high winds,Car
+BS0000116,,Saturday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,12:40,Urban,Fine no high winds,Car
+BS0000117,,Friday,Give way or uncontrolled,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,10:00,Urban,Fine no high winds,Car
+BS0000118,,Saturday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,5:30,Urban,Fine no high winds,Car
+BS0000119,,Saturday,Data missing or out of range,Not at junction or within 20 metres,Serious,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,6:30,Urban,Fine no high winds,Car
+BS0000120,,Saturday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Wet or damp,Single carriageway,30,17:21,Urban,Raining no high winds,Car
+BS0000121,,Wednesday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,19:49,Urban,Fine no high winds,Car
+BS0000122,,Saturday,Give way or uncontrolled,More than 4 arms (not roundabout),Slight,Daylight,Kensington and Chelsea,,2,4,Metropolitan Police,Wet or damp,Single carriageway,30,16:35,Urban,Fine no high winds,Car
+BS0000123,,Tuesday,Give way or uncontrolled,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,7:55,Urban,Fine no high winds,Car
+BS0000124,,Monday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,19:35,Urban,Fine no high winds,Car
+BS0000125,,Friday,Auto traffic signal,More than 4 arms (not roundabout),Slight,Daylight,Westminster,,1,2,Metropolitan Police,Dry,Single carriageway,30,15:00,Urban,Fine no high winds,Motorcycle over 500cc
+BS0000126,,Wednesday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,8:59,Urban,Fine no high winds,Car
+BS0000127,,Tuesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,7:15,Urban,Fine no high winds,Car
+BS0000128,,Tuesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,16:25,Urban,Fine no high winds,Car
+BS0000129,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,7:05,Urban,Fine no high winds,Car
+BS0000130,,Friday,Auto traffic signal,T or staggered junction,Serious,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,7:15,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+BS0000131,,Monday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,14:25,Urban,Fine no high winds,Car
+BS0000132,,Friday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,16:40,Urban,Fine no high winds,Motorcycle over 500cc
+BS0000133,,Thursday,Auto traffic signal,Roundabout,Slight,Daylight,Hammersmith and Fulham,,1,1,Metropolitan Police,Dry,Dual carriageway,30,7:30,Urban,Fine no high winds,Car
+BS0000134,,Sunday,Give way or uncontrolled,Crossroads,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,19:05,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+BS0000135,,Sunday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,16:35,Urban,Fine no high winds,Car
+BS0000136,,Thursday,Data missing or out of range,Not at junction or within 20 metres,Slight,Darkness - lights lit,Kensington and Chelsea,,2,1,Metropolitan Police,Dry,Single carriageway,30,5:11,Urban,Fine no high winds,Car
+BS0000137,,Monday,Give way or uncontrolled,Mini-roundabout,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,8:10,Urban,Fine no high winds,Car
+BS0000138,,Wednesday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,14:54,Urban,Fine no high winds,Car
+BS0000139,,Wednesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,18:30,Urban,Fine no high winds,Car
+BS0000140,,Wednesday,Auto traffic signal,Crossroads,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,One way street,30,0:45,Urban,Fine no high winds,Car
+BS0000141,,Thursday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,10:10,Urban,Raining no high winds,Car
+BS0000142,,Saturday,Data missing or out of range,Not at junction or within 20 metres,Serious,Darkness - lights lit,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,21:45,Urban,Fine no high winds,Car
+BS0000143,,Wednesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,3,Metropolitan Police,Dry,Single carriageway,30,14:02,Urban,Fine no high winds,Motorcycle 125cc and under
+BS0000144,,Thursday,Data missing or out of range,Not at junction or within 20 metres,Serious,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,18:40,Urban,Fine no high winds,Car
+BS0000145,,Thursday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Dual carriageway,30,9:15,Urban,Fine no high winds,Car
+BS0000146,,Sunday,Auto traffic signal,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,3,2,Metropolitan Police,Dry,Single carriageway,30,15:22,Urban,Fine no high winds,Car
+BS0000147,,Sunday,Give way or uncontrolled,T or staggered junction,Serious,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,One way street,30,15:50,Urban,Fine no high winds,Car
+BS0000148,,Friday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,14:51,Urban,Raining no high winds,Car
+BS0000149,,Wednesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,15:45,Urban,Fine no high winds,Car
+BS0000150,,Wednesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,13:50,Urban,Fine no high winds,Car
+BS0000151,,Tuesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,2,2,Metropolitan Police,Dry,One way street,30,13:20,Urban,Fine no high winds,Car
+BS0000152,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,9:30,Urban,Raining no high winds,Car
+BS0000153,,Monday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,15:30,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+BS0000154,,Wednesday,Data missing or out of range,Not at junction or within 20 metres,Serious,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,13:30,Urban,Fine no high winds,Other vehicle
+BS0000155,,Monday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,17:10,Urban,Fine no high winds,Car
+BS0000156,,Wednesday,Give way or uncontrolled,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,9:48,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+BS0000157,,Thursday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,8:12,Urban,Fine no high winds,Car
+BS0000158,,Wednesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,12:45,Urban,Fine no high winds,Car
+BS0000159,,Monday,Auto traffic signal,Crossroads,Serious,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,17:00,Urban,Fine no high winds,Goods 7.5 tonnes mgw and over
+BS0000160,,Wednesday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,10:40,Urban,Fine no high winds,Car
+BS0000161,,Saturday,Give way or uncontrolled,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,19:00,Urban,Fine no high winds,Car
+BS0000162,,Sunday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,4,2,Metropolitan Police,Dry,Single carriageway,30,13:51,Urban,Fine no high winds,Car
+BS0000163,,Thursday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,15:50,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+BS0000164,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,7:25,Urban,Fine no high winds,Car
+BS0000165,,Tuesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,14:20,Urban,Fine no high winds,Car
+BS0000166,,Friday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,13:15,Urban,Raining no high winds,Car
+BS0000167,,Monday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Wet or damp,Single carriageway,30,7:35,Urban,Fine no high winds,Motorcycle over 500cc
+BS0000168,,Monday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,19:57,Urban,Fine no high winds,Car
+BS0000169,,Monday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Wet or damp,One way street,30,13:45,Urban,Raining no high winds,Goods over 3.5t. and under 7.5t
+BS0000170,,Sunday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,2,2,Metropolitan Police,Dry,Single carriageway,30,17:50,Urban,Fine no high winds,Car
+BS0000171,,Wednesday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,Kensington and Chelsea,,2,2,Metropolitan Police,Dry,Single carriageway,30,19:37,Urban,Fine no high winds,Car
+BS0000172,,Sunday,Auto traffic signal,Crossroads,Slight,Daylight,Westminster,,1,2,Metropolitan Police,Dry,Single carriageway,30,19:20,Urban,Fine no high winds,Car
+BS0000173,,Thursday,Auto traffic signal,More than 4 arms (not roundabout),Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,19:20,Urban,Fine no high winds,Car
+BS0000174,,Monday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Dual carriageway,30,18:25,Urban,Fine no high winds,Car
+BS0000175,,Thursday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,9:30,Urban,Fine no high winds,Car
+BS0000176,,Sunday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,3,Metropolitan Police,Dry,Single carriageway,30,17:58,Urban,Fine no high winds,Car
+BS0000177,,Wednesday,Data missing or out of range,Not at junction or within 20 metres,Slight,Darkness - lights lit,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,20:25,Urban,Fine no high winds,Car
+BS0000178,,Friday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Dual carriageway,30,14:35,Urban,Fine no high winds,Car
+BS0000179,,Wednesday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Dual carriageway,30,19:00,Urban,Fine no high winds,Car
+BS0000180,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,8:35,Urban,Fine no high winds,Car
+BS0000181,,Friday,Auto traffic signal,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,16:50,Urban,Fine no high winds,Car
+BS0000182,,Wednesday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,0:25,Urban,Fine no high winds,Car
+BS0000183,,Sunday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,20:10,Urban,Fine no high winds,Car
+BS0000184,,Wednesday,Give way or uncontrolled,Crossroads,Serious,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,18:30,Urban,Fine no high winds,Car
+BS0000185,,Thursday,Auto traffic signal,Crossroads,Slight,Darkness - lights lit,Westminster,,2,1,Metropolitan Police,Dry,Single carriageway,30,21:14,Urban,Fine no high winds,Car
+BS0000186,,Sunday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,5,5,Metropolitan Police,Dry,Single carriageway,30,15:49,Urban,Fine no high winds,Car
+BS0000187,,Wednesday,Auto traffic signal,T or staggered junction,Slight,Darkness - lights lit,Kensington and Chelsea,,1,3,Metropolitan Police,Dry,Single carriageway,30,0:25,Urban,Fine no high winds,Car
+BS0000188,,Wednesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,11:10,Urban,Fine no high winds,Car
+BS0000189,,Sunday,Data missing or out of range,Not at junction or within 20 metres,Serious,Daylight,Kensington and Chelsea,,2,1,Metropolitan Police,Dry,Single carriageway,30,17:34,Urban,Fine no high winds,Car
+BS0000190,,Sunday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,0:46,Urban,Fine no high winds,Car
+BS0000191,,Wednesday,Auto traffic signal,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,14:00,Urban,Fine no high winds,Car
+BS0000192,,Saturday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,19:20,Urban,Fine no high winds,Car
+BS0000193,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,19:00,Urban,Fine no high winds,Car
+BS0000194,,Saturday,Auto traffic signal,T or staggered junction,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,19:36,Urban,Fine no high winds,Car
+BS0000195,,Friday,Give way or uncontrolled,Roundabout,Slight,Darkness - lights lit,Kensington and Chelsea,,2,2,Metropolitan Police,Wet or damp,Roundabout,30,22:28,Urban,Other,Car
+BS0000196,,Wednesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,Pedestrian in carriageway - not injured,2,1,Metropolitan Police,Dry,Single carriageway,30,19:00,Urban,Fine no high winds,Car
+BS0000197,,Wednesday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,21:15,Urban,Fine no high winds,Car
+BS0000198,,Friday,Give way or uncontrolled,Roundabout,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Roundabout,30,8:00,Urban,Fine no high winds,Car
+BS0000199,,Friday,Auto traffic signal,Crossroads,Slight,Darkness - lights lit,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,22:00,Urban,Fine no high winds,Taxi/Private hire car
+BS0000200,,Wednesday,Auto traffic signal,Private drive or entrance,Slight,Daylight,Westminster,,1,2,Metropolitan Police,Dry,Single carriageway,30,16:45,Urban,Fine no high winds,Goods 7.5 tonnes mgw and over
+BS0000201,,Monday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,10:42,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+BS0000202,,Tuesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,One way street,30,9:39,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+BS0000203,,Monday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,3,2,Metropolitan Police,Dry,Single carriageway,30,16:18,Urban,Fine no high winds,Car
+BS0000204,,Tuesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,18:44,Urban,Fine no high winds,Car
+BS0000205,,Thursday,Data missing or out of range,Not at junction or within 20 metres,Serious,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,15:50,Urban,Fine no high winds,Goods over 3.5t. and under 7.5t
+BS0000206,,Saturday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,9:19,Urban,Fine no high winds,Car
+BS0000207,,Saturday,Auto traffic signal,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,2,1,Metropolitan Police,Dry,Dual carriageway,30,18:30,Urban,Fine no high winds,Car
+BS0000208,,Tuesday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Wet or damp,Single carriageway,30,9:00,Urban,Raining no high winds,Car
+BS0000209,,Saturday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,12:00,Urban,Fine no high winds,Car
+BS0000210,,Sunday,Give way or uncontrolled,Roundabout,Slight,Daylight,Hounslow,,1,2,Metropolitan Police,Dry,Roundabout,30,17:35,Urban,Fine no high winds,Taxi/Private hire car
+BS0000211,,Friday,Auto traffic signal,T or staggered junction,Slight,Daylight,Hammersmith and Fulham,,1,2,Metropolitan Police,Dry,Single carriageway,30,8:50,Urban,Fine no high winds,Car
+BS0000212,,Wednesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,18:20,Urban,Fine no high winds,Car
+BS0000213,,Thursday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,3,Metropolitan Police,Dry,Dual carriageway,30,7:20,Urban,Fine no high winds,Car
+BS0000214,,Saturday,Give way or uncontrolled,Crossroads,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,20:39,Urban,Fine no high winds,Car
+BS0000215,,Wednesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,17:19,Urban,Fine no high winds,Car
+BS0000216,,Tuesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,12:45,Urban,Fine no high winds,Motorcycle 50cc and under
+BS0000217,,Sunday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Dual carriageway,30,11:00,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+BS0000218,,Thursday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,8:30,Urban,Fine no high winds,Car
+BS0000219,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,9:30,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+BS0000220,,Friday,Auto traffic signal,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,8:15,Urban,Fine no high winds,Car
+BS0000221,,Thursday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,18:55,Urban,Fine no high winds,Car
+BS0000222,,Wednesday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,9:50,Urban,Fine no high winds,Car
+BS0000223,,Wednesday,Give way or uncontrolled,Mini-roundabout,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Roundabout,30,19:00,Urban,Fine no high winds,Car
+BS0000224,,Sunday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,3,Metropolitan Police,Dry,Dual carriageway,30,10:36,Urban,Fine no high winds,Car
+BS0000225,,Sunday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,16:01,Urban,Fine no high winds,Car
+BS0000226,,Thursday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,13:52,Urban,Fine no high winds,Car
+BS0000227,,Tuesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,20:40,Urban,Fine no high winds,Car
+BS0000228,,Monday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,18:00,Urban,Fine no high winds,Car
+BS0000229,,Saturday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,2,3,Metropolitan Police,Dry,Dual carriageway,30,17:45,Urban,Fine no high winds,Car
+BS0000230,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,9:28,Urban,Fine no high winds,Car
+BS0000231,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,9:01,Urban,Fine no high winds,Car
+BS0000232,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,15:10,Urban,Fine no high winds,Goods 7.5 tonnes mgw and over
+BS0000233,,Saturday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,2,2,Metropolitan Police,Dry,Single carriageway,30,18:10,Urban,Fine no high winds,Car
+BS0000234,,Monday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,3,2,Metropolitan Police,Wet or damp,Single carriageway,30,20:05,Urban,Fine no high winds,Car
+BS0000235,,Tuesday,Data missing or out of range,Not at junction or within 20 metres,Slight,Darkness - lights lit,Kensington and Chelsea,,1,1,Metropolitan Police,Wet or damp,Single carriageway,30,3:19,Urban,Raining no high winds,Car
+BS0000236,,Tuesday,Auto traffic signal,T or staggered junction,Serious,Daylight,Kensington and Chelsea,,2,1,Metropolitan Police,Wet or damp,Single carriageway,30,9:40,Urban,Raining no high winds,Car
+BS0000237,,Tuesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,8:25,Urban,Fine no high winds,Car
+BS0000238,,Saturday,Give way or uncontrolled,Private drive or entrance,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,12:30,Urban,Fine no high winds,Car
+BS0000239,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,12:25,Urban,Fine no high winds,Car
+BS0000240,,Thursday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,19:15,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+BS0000241,,Thursday,Give way or uncontrolled,Crossroads,Slight,Daylight,Kensington and Chelsea,,4,2,Metropolitan Police,Dry,Single carriageway,30,9:10,Urban,Fine no high winds,Car
+BS0000242,,Thursday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,22:10,Urban,Fine no high winds,Motorcycle over 500cc
+BS0000243,,Thursday,Give way or uncontrolled,Private drive or entrance,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,19:15,Urban,Fine no high winds,Car
+BS0000244,,Thursday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,17:01,Urban,Fine no high winds,Car
+BS0000245,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,8:00,Urban,Fine no high winds,Car
+BS0000246,,Thursday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,8:35,Urban,Fine no high winds,Car
+BS0000247,,Wednesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,9:05,Urban,Fine no high winds,Car
+BS0000248,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,3,Metropolitan Police,Dry,Dual carriageway,30,8:55,Urban,Fine no high winds,Car
+BS0000249,,Friday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,9:25,Urban,Fine no high winds,Car
+BS0000250,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,17:28,Urban,Fine no high winds,Car
+BS0000251,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,3,Metropolitan Police,Dry,Single carriageway,30,19:03,Urban,Fine no high winds,Car
+BS0000252,,Sunday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,10:30,Urban,Fine no high winds,Car
+BS0000253,,Monday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,14:45,Urban,Fine no high winds,Car
+BS0000254,,Tuesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,10:56,Urban,Fine no high winds,Car
+BS0000255,,Tuesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,18:45,Urban,Fine no high winds,Car
+BS0000256,,Monday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,16:20,Urban,Fine no high winds,Car
+BS0000257,,Sunday,Give way or uncontrolled,Private drive or entrance,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,12:35,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+BS0000258,,Tuesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,16:50,Urban,Fine no high winds,Car
+BS0000259,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,2:04,Urban,Fine no high winds,Car
+BS0000260,,Monday,Auto traffic signal,Crossroads,Serious,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,11:00,Urban,Fine no high winds,Car
+BS0000261,,Tuesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,12:00,Urban,Fine no high winds,Car
+BS0000262,,Monday,Give way or uncontrolled,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Wet or damp,Single carriageway,30,19:30,Urban,Raining no high winds,Bus or coach (17 or more pass seats)
+BS0000263,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,2,2,Metropolitan Police,Dry,Single carriageway,30,16:15,Urban,Fine no high winds,Car
+BS0000264,,Thursday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,18:45,Urban,Fine no high winds,Car
+BS0000265,,Wednesday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,15:25,Urban,Fine no high winds,Goods 7.5 tonnes mgw and over
+BS0000266,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,2,2,Metropolitan Police,Dry,Single carriageway,30,13:35,Urban,Fine no high winds,Motorcycle over 125cc and up to 500cc
+BS0000267,,Tuesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,12:34,Urban,Fine no high winds,Car
+BS0000268,,Thursday,Auto traffic signal,T or staggered junction,Serious,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,8:01,Urban,Fine no high winds,Goods 7.5 tonnes mgw and over
+BS0000269,,Wednesday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,3,Metropolitan Police,Dry,Single carriageway,30,18:03,Urban,Fine no high winds,Car
+BS0000270,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,2,2,Metropolitan Police,Dry,Single carriageway,30,13:11,Urban,Fine no high winds,Car
+BS0000271,,Wednesday,Auto traffic signal,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,11:40,Urban,Fine no high winds,Car
+BS0000272,,Saturday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,12:43,Urban,Fine no high winds,Car
+BS0000273,,Thursday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Dual carriageway,30,11:30,Urban,Fine no high winds,Car
+BS0000274,,Friday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,7:25,Urban,Fine no high winds,Car
+BS0000275,,Tuesday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,13:30,Urban,Fine no high winds,Car
+BS0000276,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,One way street,30,15:40,Urban,Fine no high winds,Car
+BS0000277,,Sunday,Data missing or out of range,Not at junction or within 20 metres,Slight,Darkness - lights lit,Kensington and Chelsea,,1,3,Metropolitan Police,Dry,Single carriageway,30,22:50,Urban,Fine no high winds,Car
+BS0000278,,Thursday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,2,1,Metropolitan Police,Dry,Single carriageway,30,12:48,Urban,Fine no high winds,Car
+BS0000279,,Thursday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,19:30,Urban,Fine no high winds,Car
+BS0000280,,Saturday,Auto traffic signal,Crossroads,Serious,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,20:04,Urban,Fine no high winds,Car
+BS0000281,,Sunday,Auto traffic signal,Roundabout,Slight,Daylight,Hammersmith and Fulham,,1,2,Metropolitan Police,Dry,Roundabout,30,19:25,Urban,Fine no high winds,Car
+BS0000282,,Monday,Auto traffic signal,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,2,1,Metropolitan Police,Dry,Dual carriageway,30,8:30,Urban,Fine no high winds,Car
+BS0000283,,Wednesday,Give way or uncontrolled,Mini-roundabout,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,16:35,Urban,Fine no high winds,Car
+BS0000284,,Saturday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,15:32,Urban,Fine no high winds,Car
+BS0000285,,Sunday,Give way or uncontrolled,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,17:57,Urban,Fine no high winds,Car
+BS0000286,,Monday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,9:20,Urban,Other,Car
+BS0000287,,Tuesday,Auto traffic signal,More than 4 arms (not roundabout),Serious,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,18:30,Urban,Fine no high winds,Car
+BS0000288,,Tuesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,12:00,Urban,Fine no high winds,Car
+BS0000289,,Tuesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,11:37,Urban,Fine no high winds,Car
+BS0000290,,Thursday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Dual carriageway,30,16:50,Urban,Fine no high winds,Car
+BS0000291,,Tuesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,16:08,Urban,Fine no high winds,Motorcycle over 500cc
+BS0000292,,Monday,Auto traffic signal,T or staggered junction,Slight,Darkness - lights lit,Westminster,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,22:55,Urban,Raining no high winds,Car
+BS0000293,,Thursday,Auto traffic signal,Crossroads,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,21:45,Urban,Fine no high winds,Car
+BS0000294,,Friday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,7:37,Urban,Fine no high winds,Car
+BS0000295,,Sunday,Data missing or out of range,Not at junction or within 20 metres,Serious,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,14:11,Urban,Fine no high winds,Car
+BS0000296,,Saturday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,2,2,Metropolitan Police,Dry,Single carriageway,30,19:10,Urban,Fine no high winds,Motorcycle 125cc and under
+BS0000297,,Friday,Give way or uncontrolled,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,20:00,Urban,Fine no high winds,Car
+BS0000298,,Friday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,8:42,Urban,Fine no high winds,Car
+BS0000299,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,18:45,Urban,Fine no high winds,Car
+BS0000300,,Thursday,Data missing or out of range,Not at junction or within 20 metres,Serious,Darkness - lights lit,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,23:00,Urban,Fine no high winds,Car
+BS0000301,,Wednesday,Give way or uncontrolled,Crossroads,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,20:40,Urban,Fine no high winds,Car
+BS0000302,,Saturday,Auto traffic signal,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,9:30,Urban,Fine no high winds,Car
+BS0000303,,Saturday,Give way or uncontrolled,Crossroads,Serious,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,16:30,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+BS0000304,,Wednesday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,8:45,Urban,Fine no high winds,Car
+BS0000305,,Sunday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,13:30,Urban,Fine no high winds,Car
+BS0000306,,Wednesday,Auto traffic signal,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,15:40,Urban,Fine no high winds,Car
+BS0000307,,Thursday,Give way or uncontrolled,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,9:00,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+BS0000308,,Saturday,Auto traffic signal,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,19:05,Urban,Raining no high winds,Car
+BS0000309,,Tuesday,Give way or uncontrolled,Roundabout,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Roundabout,30,12:00,Urban,Fine no high winds,Car
+BS0000310,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,8:34,Urban,Fine no high winds,Car
+BS0000311,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,17:00,Urban,Fine no high winds,Car
+BS0000312,,Wednesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,3,Metropolitan Police,Dry,Single carriageway,30,13:18,Urban,Fine no high winds,Car
+BS0000313,,Monday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,15:20,Urban,Raining no high winds,Car
+BS0000314,,Friday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,15:36,Urban,Fine no high winds,Car
+BS0000315,,Wednesday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,16:23,Urban,Raining no high winds,Car
+BS0000316,,Saturday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Dual carriageway,30,11:50,Urban,Fine no high winds,Motorcycle over 500cc
+BS0000317,,Wednesday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,10:00,Urban,Fine no high winds,Car
+BS0000318,,Saturday,Give way or uncontrolled,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,8:51,Urban,Fine no high winds,Car
+BS0000319,,Thursday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,2,4,Metropolitan Police,Dry,Single carriageway,30,8:10,Urban,Other,Car
+BS0000320,,Friday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,10:09,Urban,Fine no high winds,Car
+BS0000321,,Tuesday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,15:40,Urban,Fine no high winds,Car
+BS0000322,,Tuesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,18:30,Urban,Fine no high winds,Motorcycle over 125cc and up to 500cc
+BS0000323,,Monday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,One way street,30,15:15,Urban,Fine no high winds,Motorcycle over 500cc
+BS0000324,,Monday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,15:30,Urban,Fine no high winds,Car
+BS0000325,,Sunday,Give way or uncontrolled,Crossroads,Serious,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,14:15,Urban,Fine no high winds,Car
+BS0000326,,Tuesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Dual carriageway,30,9:12,Urban,Fine no high winds,Car
+BS0000327,,Tuesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,10:20,Urban,Fine no high winds,Car
+BS0000328,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Westminster,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,5:15,Urban,Other,Motorcycle 50cc and under
+BS0000329,,Thursday,Give way or uncontrolled,T or staggered junction,Serious,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,9:00,Urban,Fine no high winds,Car
+BS0000330,,Wednesday,Data missing or out of range,Not at junction or within 20 metres,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,23:00,Urban,Fine no high winds,Car
+BS0000331,,Wednesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,16:35,Urban,Fine no high winds,Car
+BS0000332,,Saturday,Give way or uncontrolled,Mini-roundabout,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Roundabout,30,1:25,Urban,Fine no high winds,Car
+BS0000333,,Monday,Auto traffic signal,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,16:12,Urban,Fine no high winds,Car
+BS0000334,,Thursday,Give way or uncontrolled,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,17:10,Urban,Fine no high winds,Car
+BS0000335,,Saturday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,2,2,Metropolitan Police,Dry,Single carriageway,30,18:15,Urban,Fine no high winds,Car
+BS0000336,,Monday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,20:05,Urban,Fine no high winds,Car
+BS0000337,,Monday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,8:45,Urban,Fine no high winds,Car
+BS0000338,,Sunday,Give way or uncontrolled,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,11:58,Urban,Fine no high winds,Car
+BS0000339,,Thursday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,15:30,Urban,Fine no high winds,Motorcycle over 500cc
+BS0000340,,Thursday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,2,2,Metropolitan Police,Dry,Single carriageway,30,18:25,Urban,Fine no high winds,Car
+BS0000341,,Monday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,7:38,Urban,Fine no high winds,Motorcycle over 500cc
+BS0000342,,Thursday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,17:08,Urban,Fine no high winds,Car
+BS0000343,,Thursday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,18:00,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+BS0000344,,Monday,Data missing or out of range,Not at junction or within 20 metres,Slight,Darkness - lights lit,Kensington and Chelsea,,2,2,Metropolitan Police,Dry,Dual carriageway,50,19:30,Urban,Fine no high winds,Car
+BS0000345,,Wednesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,18:08,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+BS0000346,,Wednesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,3,Metropolitan Police,Dry,Single carriageway,30,17:50,Urban,Fine no high winds,Car
+BS0000347,,Tuesday,Give way or uncontrolled,Roundabout,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Wet or damp,Roundabout,30,16:20,Urban,Raining no high winds,Motorcycle 50cc and under
+BS0000348,,Thursday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,20:40,Urban,Fine no high winds,Car
+BS0000349,,Sunday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,19:20,Urban,Fine no high winds,Motorcycle over 500cc
+BS0000350,,Sunday,Give way or uncontrolled,Crossroads,Serious,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,20:51,Urban,Raining no high winds,Car
+BS0000351,,Saturday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,17:25,Urban,Fine no high winds,Motorcycle over 500cc
+BS0000352,,Tuesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,9:45,Urban,Fine no high winds,Car
+BS0000353,,Tuesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,7:12,Urban,Fine no high winds,Motorcycle over 500cc
+BS0000354,,Sunday,Auto traffic signal,Crossroads,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,3:40,Urban,Fine no high winds,Goods 7.5 tonnes mgw and over
+BS0000355,,Tuesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,9:14,Urban,Fine no high winds,Goods 7.5 tonnes mgw and over
+BS0000356,,Tuesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,8:03,Urban,Fine no high winds,Car
+BS0000357,,Friday,Give way or uncontrolled,Roundabout,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Roundabout,30,18:54,Urban,Fine no high winds,Car
+BS0000358,,Tuesday,Give way or uncontrolled,Crossroads,Serious,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,8:20,Urban,Fine no high winds,Car
+BS0000359,,Wednesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,16:16,Urban,Fine no high winds,Car
+BS0000360,,Sunday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,10:00,Urban,Fine no high winds,Car
+BS0000361,,Wednesday,Auto traffic signal,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,13:10,Urban,Fine no high winds,Car
+BS0000362,,Monday,Auto traffic signal,Crossroads,Slight,Darkness - lights lit,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Dual carriageway,30,22:00,Urban,Fine no high winds,Car
+BS0000363,,Wednesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,7:52,Urban,Raining no high winds,Van / Goods 3.5 tonnes mgw or under
+BS0000364,,Tuesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,13:50,Urban,Fine no high winds,Car
+BS0000365,,Wednesday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,18:00,Urban,Fine no high winds,Goods 7.5 tonnes mgw and over
+BS0000366,,Saturday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,10:20,Urban,Fine no high winds,Car
+BS0000367,,Wednesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,12:35,Urban,Fine no high winds,Car
+BS0000368,,Tuesday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,3,Metropolitan Police,Dry,Dual carriageway,30,14:55,Urban,Fine no high winds,Car
+BS0000369,,Wednesday,Auto traffic signal,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,7:25,Urban,Fine no high winds,Car
+BS0000370,,Tuesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,19:12,Urban,Fine no high winds,Motorcycle 50cc and under
+BS0000371,,Wednesday,Give way or uncontrolled,T or staggered junction,Serious,Daylight,Kensington and Chelsea,,2,1,Metropolitan Police,Dry,Single carriageway,30,8:30,Urban,Fine no high winds,Car
+BS0000372,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,15:15,Urban,Fine no high winds,Car
+BS0000373,,Thursday,Data missing or out of range,Not at junction or within 20 metres,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,20:20,Urban,Raining no high winds,Motorcycle over 500cc
+BS0000374,,Sunday,Give way or uncontrolled,T or staggered junction,Serious,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,16:00,Urban,Fine no high winds,Car
+BS0000375,,Saturday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,0:15,Urban,Fine no high winds,Motorcycle over 500cc
+BS0000376,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,13:35,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+BS0000377,,Monday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,9:30,Urban,Fine no high winds,Car
+BS0000378,,Friday,Auto traffic signal,T or staggered junction,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,23:20,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+BS0000379,,Thursday,Auto traffic signal,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,2,1,Metropolitan Police,Dry,Single carriageway,30,9:06,Urban,Fine no high winds,Car
+BS0000380,,Tuesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,12:46,Urban,Fine no high winds,Car
+BS0000381,,Friday,Auto traffic signal,Crossroads,Serious,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Dual carriageway,30,7:38,Urban,Fine no high winds,Goods 7.5 tonnes mgw and over
+BS0000382,,Wednesday,Auto traffic signal,Crossroads,Serious,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,14:20,Urban,Fine no high winds,Car
+BS0000383,,Sunday,Give way or uncontrolled,T or staggered junction,Serious,Darkness - lights lit,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,One way street,30,3:30,Urban,Fine no high winds,Car
+BS0000384,,Thursday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,2,4,Metropolitan Police,Dry,One way street,30,12:31,Urban,Fine no high winds,Car
+BS0000385,,Sunday,Give way or uncontrolled,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,17:13,Urban,Fine no high winds,Motorcycle over 500cc
+BS0000386,,Friday,Auto traffic signal,Crossroads,Slight,Darkness - lights lit,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,22:22,Urban,Fine no high winds,Motorcycle over 500cc
+BS0000387,,Tuesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,2,2,Metropolitan Police,Dry,Single carriageway,30,10:05,Urban,Fine no high winds,Goods 7.5 tonnes mgw and over
+BS0000388,,Tuesday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,10:00,Urban,Fine no high winds,Car
+BS0000389,,Wednesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,3,Metropolitan Police,Dry,Single carriageway,30,6:00,Urban,Fine no high winds,Car
+BS0000390,,Thursday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,18:00,Urban,Fine no high winds,Motorcycle over 125cc and up to 500cc
+BS0000391,,Wednesday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,2,3,Metropolitan Police,Dry,Single carriageway,30,17:45,Urban,Fine no high winds,Car
+BS0000392,,Monday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,18:10,Urban,Fine no high winds,Goods over 3.5t. and under 7.5t
+BS0000393,,Tuesday,Give way or uncontrolled,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,9:06,Urban,Fine no high winds,Car
+BS0000394,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,16:50,Urban,Fine no high winds,Car
+BS0000395,,Thursday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,6:38,Urban,Fine no high winds,Car
+BS0000396,,Friday,Auto traffic signal,Crossroads,Slight,Darkness - lights lit,Kensington and Chelsea,,4,2,Metropolitan Police,Dry,Dual carriageway,30,0:20,Urban,Fine no high winds,Car
+BS0000397,,Friday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,13:27,Urban,Fine no high winds,Car
+BS0000398,,Sunday,Give way or uncontrolled,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,18:30,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+BS0000399,,Thursday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,One way street,30,19:35,Urban,Fine no high winds,Car
+BS0000400,,Tuesday,Authorised person,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,10:25,Urban,Fine no high winds,Car
+BS0000401,,Saturday,Auto traffic signal,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,13:00,Urban,Fine no high winds,Car
+BS0000402,,Friday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,8:05,Urban,Fine no high winds,Car
+BS0000403,,Monday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,14:26,Urban,Fine no high winds,Car
+BS0000404,,Sunday,Auto traffic signal,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,16:50,Urban,Fine no high winds,Car
+BS0000405,,Monday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,7:55,Urban,Fine no high winds,Car
+BS0000406,,Wednesday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,One way street,30,15:00,Urban,Fine no high winds,Car
+BS0000407,,Friday,Auto traffic signal,Crossroads,Serious,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,14:07,Urban,Fine no high winds,Car
+BS0000408,,Thursday,Auto traffic signal,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,13:35,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+BS0000409,,Monday,Auto traffic signal,Crossroads,Serious,Darkness - lights lit,Kensington and Chelsea,,2,2,Metropolitan Police,Dry,Single carriageway,30,3:40,Urban,Fine no high winds,Car
+BS0000410,,Friday,Give way or uncontrolled,Mini-roundabout,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Roundabout,30,12:37,Urban,Fine no high winds,Car
+BS0000411,,Monday,Data missing or out of range,Not at junction or within 20 metres,Slight,Darkness - lights lit,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,22:00,Urban,Fine no high winds,Car
+BS0000412,,Friday,Give way or uncontrolled,Crossroads,Serious,Daylight,Kensington and Chelsea,,2,1,Metropolitan Police,Dry,Single carriageway,30,14:45,Urban,Fine no high winds,Car
+BS0000413,,Thursday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,17:19,Urban,Fine no high winds,Car
+BS0000414,,Monday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,One way street,30,16:40,Urban,Fine no high winds,Car
+BS0000415,,Friday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,Other object on road,1,1,Metropolitan Police,Dry,Single carriageway,30,15:55,Urban,Fine no high winds,Car
+BS0000416,,Friday,Give way or uncontrolled,Mini-roundabout,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Roundabout,30,16:40,Urban,Fine no high winds,Car
+BS0000417,,Wednesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,13:35,Urban,Raining no high winds,Car
+BS0000418,,Thursday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,18:30,Urban,Fine no high winds,Car
+BS0000419,,Friday,Auto traffic signal,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,9:05,Urban,Fine no high winds,Car
+BS0000420,,Wednesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,18:00,Urban,Raining no high winds,Car
+BS0000421,,Sunday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,15:49,Urban,Fine no high winds,Car
+BS0000422,,Tuesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,One way street,30,12:02,Urban,Fine no high winds,Car
+BS0000423,,Sunday,Give way or uncontrolled,Crossroads,Slight,Darkness - lights lit,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,0:10,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+BS0000424,,Thursday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,17:50,Urban,Fine no high winds,Car
+BS0000425,,Tuesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,3,Metropolitan Police,Dry,Single carriageway,30,17:30,Urban,Fine no high winds,Car
+BS0000426,,Wednesday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Dual carriageway,30,12:30,Urban,Fine no high winds,Car
+BS0000427,,Monday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,6:35,Urban,Fine no high winds,Car
+BS0000428,,Monday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,11:59,Urban,Fine no high winds,Car
+BS0000429,,Saturday,Give way or uncontrolled,T or staggered junction,Serious,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,10:40,Urban,Fine no high winds,Car
+BS0000430,,Wednesday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,2,1,Metropolitan Police,Dry,Single carriageway,30,15:41,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+BS0000431,,Tuesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,12:40,Urban,Fine no high winds,Car
+BS0000432,,Monday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,15:15,Urban,Fine no high winds,Car
+BS0000433,,Monday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,12:30,Urban,Fine no high winds,Car
+BS0000434,,Thursday,Auto traffic signal,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,13:20,Urban,Fine no high winds,Car
+BS0000435,,Saturday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,One way street,30,17:30,Urban,Fine no high winds,Car
+BS0000436,,Saturday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,20:25,Urban,Fine no high winds,Motorcycle over 500cc
+BS0000437,,Saturday,Auto traffic signal,Crossroads,Slight,Darkness - lights lit,Kensington and Chelsea,,2,2,Metropolitan Police,Dry,Dual carriageway,30,1:15,Urban,Fine no high winds,Car
+BS0000438,,Thursday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,16:50,Urban,Fine no high winds,Motorcycle over 500cc
+BS0000439,,Thursday,Auto traffic signal,More than 4 arms (not roundabout),Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,One way street,30,6:40,Urban,Fine no high winds,Car
+BS0000440,,Tuesday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,8:45,Urban,Fine no high winds,Motorcycle over 500cc
+BS0000441,,Tuesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Westminster,,1,2,Metropolitan Police,Dry,Single carriageway,30,16:59,Urban,Fine no high winds,Car
+BS0000442,,Monday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,16:02,Urban,Fine no high winds,Car
+BS0000443,,Tuesday,Give way or uncontrolled,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Dual carriageway,30,16:49,Urban,Fine no high winds,Car
+BS0000444,,Tuesday,Auto traffic signal,Crossroads,Serious,Daylight,Kensington and Chelsea,,2,1,Metropolitan Police,Wet or damp,Single carriageway,30,17:05,Urban,Raining no high winds,Motorcycle over 500cc
+BS0000445,,Tuesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,18:45,Urban,Fine no high winds,Car
+BS0000446,,Tuesday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,13:50,Urban,Fine no high winds,Car
+BS0000447,,Wednesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,18:00,Urban,Fine no high winds,Goods 7.5 tonnes mgw and over
+BS0000448,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,14:27,Urban,Fine no high winds,Car
+BS0000449,,Sunday,Data missing or out of range,Not at junction or within 20 metres,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,23:30,Urban,Fine no high winds,Car
+BS0000450,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,16:20,Urban,Fine no high winds,Car
+BS0000451,,Monday,Give way or uncontrolled,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,14:45,Urban,Fine no high winds,Taxi/Private hire car
+BS0000452,,Wednesday,Give way or uncontrolled,T or staggered junction,Serious,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,15:20,Urban,Fine no high winds,Car
+BS0000453,,Wednesday,Data missing or out of range,Not at junction or within 20 metres,Slight,Darkness - lights lit,Westminster,,1,1,Metropolitan Police,Wet or damp,Single carriageway,30,19:55,Urban,Raining no high winds,Car
+BS0000454,,Wednesday,Data missing or out of range,Not at junction or within 20 metres,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,21:05,Urban,Fine no high winds,Car
+BS0000455,,Wednesday,Give way or uncontrolled,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,17:25,Urban,Fine no high winds,Goods 7.5 tonnes mgw and over
+BS0000456,,Monday,Auto traffic signal,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,8:05,Urban,Fine no high winds,Car
+BS0000457,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,16:40,Urban,Fine no high winds,Car
+BS0000458,,Wednesday,Give way or uncontrolled,Crossroads,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,20:59,Urban,Raining no high winds,Car
+BS0000459,,Tuesday,Data missing or out of range,Not at junction or within 20 metres,Slight,Darkness - lights lit,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,19:05,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+BS0000460,,Saturday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,18:08,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+BS0000461,,Friday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Dual carriageway,30,8:50,Urban,Fine no high winds,Car
+BS0000462,,Monday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,10:00,Urban,Fine no high winds,Car
+BS0000463,,Monday,Give way or uncontrolled,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,12:00,Urban,Fine no high winds,Motorcycle over 500cc
+BS0000464,,Wednesday,Data missing or out of range,Not at junction or within 20 metres,Serious,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,9:30,Urban,Fine no high winds,Other vehicle
+BS0000465,,Wednesday,Give way or uncontrolled,Roundabout,Serious,Darkness - lights lit,Hammersmith and Fulham,,3,2,Metropolitan Police,Dry,Roundabout,40,19:25,Urban,Fine no high winds,Car
+BS0000466,,Friday,Data missing or out of range,Not at junction or within 20 metres,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,21:15,Urban,Fine no high winds,Car
+BS0000467,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,18:10,Urban,Fine no high winds,Car
+BS0000468,,Wednesday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,18:50,Urban,Fine no high winds,Car
+BS0000469,,Thursday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,0:30,Urban,Fine no high winds,Car
+BS0000470,,Wednesday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,16:40,Urban,Fine no high winds,Car
+BS0000471,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,2:47,Urban,Fine no high winds,Car
+BS0000472,,Saturday,Give way or uncontrolled,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,17:22,Urban,Fine + high winds,Car
+BS0000473,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,21:14,Urban,Fine no high winds,Car
+BS0000474,,Monday,Give way or uncontrolled,T or staggered junction,Serious,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,8:40,Urban,Fine no high winds,Motorcycle 125cc and under
+BS0000475,,Tuesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,16:00,Urban,Fine no high winds,Motorcycle over 500cc
+BS0000476,,Tuesday,Data missing or out of range,Not at junction or within 20 metres,Serious,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,11:10,Urban,Fine no high winds,Car
+BS0000477,,Tuesday,Auto traffic signal,T or staggered junction,Slight,Daylight,Kensington and Chelsea,Other object on road,1,2,Metropolitan Police,Dry,Single carriageway,30,17:36,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+BS0000478,,Tuesday,Give way or uncontrolled,T or staggered junction,Serious,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,16:45,Urban,Fine no high winds,Car
+BS0000479,,Tuesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Westminster,,1,2,Metropolitan Police,Dry,Single carriageway,30,10:20,Urban,Fine no high winds,Car
+BS0000480,,Monday,Auto traffic signal,T or staggered junction,Slight,Darkness - lights lit,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,0:16,Urban,Fine no high winds,Car
+BS0000481,,Friday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,12:23,Urban,Fine no high winds,Car
+BS0000482,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Wet or damp,Single carriageway,30,17:00,Urban,Raining no high winds,Car
+BS0000483,,Thursday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,12:00,Urban,Fine no high winds,Car
+BS0000484,,Sunday,Give way or uncontrolled,T or staggered junction,Serious,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,7:15,Urban,Fine no high winds,Motorcycle over 500cc
+BS0000485,,Saturday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,14:20,Urban,Fine no high winds,Car
+BS0000486,,Sunday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,10:50,Urban,Fine no high winds,Car
+BS0000487,,Thursday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,15:50,Urban,Fine no high winds,Car
+BS0000488,,Monday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,10:50,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+BS0000489,,Friday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,9:35,Urban,Fine no high winds,Car
+BS0000490,,Sunday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,2,2,Metropolitan Police,Dry,Dual carriageway,30,14:50,Urban,Fine no high winds,Car
+BS0000491,,Monday,Data missing or out of range,Not at junction or within 20 metres,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,19:00,Urban,Fine no high winds,Car
+BS0000492,,Thursday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,8:45,Urban,Fine no high winds,Car
+BS0000493,,Monday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,16:40,Urban,Fine no high winds,Car
+BS0000494,,Tuesday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,20:59,Urban,Fine no high winds,Car
+BS0000495,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,14:50,Urban,Fine no high winds,Car
+BS0000496,,Sunday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,13:20,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+BS0000497,,Tuesday,Auto traffic signal,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,14:30,Urban,Fine no high winds,Car
+BS0000498,,Tuesday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,13:45,Urban,Fine no high winds,Car
+BS0000499,,Monday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,21:00,Urban,Fine no high winds,Car
+BS0000500,,Thursday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,12:09,Urban,Fine no high winds,Car
+BS0000501,,Sunday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,One way street,30,13:23,Urban,Fine no high winds,Car
+BS0000502,,Saturday,Data missing or out of range,Not at junction or within 20 metres,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Dual carriageway,30,22:10,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+BS0000503,,Monday,Give way or uncontrolled,Roundabout,Serious,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Roundabout,30,20:01,Urban,Fine no high winds,Car
+BS0000504,,Friday,Auto traffic signal,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,3,Metropolitan Police,Dry,Single carriageway,30,16:20,Urban,Fine no high winds,Car
+BS0000505,,Monday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,Kensington and Chelsea,,1,3,Metropolitan Police,Dry,Dual carriageway,30,18:40,Urban,Fine no high winds,Car
+BS0000506,,Monday,Data missing or out of range,Not at junction or within 20 metres,Serious,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,10:00,Urban,Fine no high winds,Car
+BS0000507,,Tuesday,Give way or uncontrolled,Roundabout,Slight,Darkness - lights lit,Kensington and Chelsea,,2,2,Metropolitan Police,Dry,Roundabout,30,0:04,Urban,Fine no high winds,Goods 7.5 tonnes mgw and over
+BS0000508,,Tuesday,Data missing or out of range,Not at junction or within 20 metres,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,19:27,Urban,Fine no high winds,Goods 7.5 tonnes mgw and over
+BS0000509,,Tuesday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Dual carriageway,40,15:00,Urban,Fine no high winds,Motorcycle over 500cc
+BS0000510,,Friday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,One way street,30,15:45,Urban,Fine no high winds,Car
+BS0000511,,Thursday,Auto traffic signal,T or staggered junction,Slight,Darkness - lights lit,Westminster,,1,2,Metropolitan Police,Dry,Dual carriageway,30,21:05,Urban,Other,Car
+BS0000512,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,21:00,Urban,Fine no high winds,Motorcycle over 125cc and up to 500cc
+BS0000513,,Saturday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,3,4,Metropolitan Police,Dry,One way street,30,14:15,Urban,Fine no high winds,Car
+BS0000514,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,11:50,Urban,Fine no high winds,Car
+BS0000515,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,9:10,Urban,Fine no high winds,Car
+BS0000516,,Wednesday,Auto traffic signal,Crossroads,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Dual carriageway,30,20:30,Urban,Fine no high winds,Car
+BS0000517,,Friday,Give way or uncontrolled,Private drive or entrance,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,8:25,Urban,Fine no high winds,Goods over 3.5t. and under 7.5t
+BS0000518,,Sunday,Auto traffic signal,T or staggered junction,Serious,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Dual carriageway,30,16:30,Urban,Fine no high winds,Car
+BS0000519,,Tuesday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,13:00,Urban,Fine no high winds,Car
+BS0000520,,Tuesday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,8:45,Urban,Fine no high winds,Car
+BS0000521,,Friday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,9,Metropolitan Police,Dry,Single carriageway,30,13:40,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+BS0000522,,Wednesday,Give way or uncontrolled,T or staggered junction,Serious,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,8:55,Urban,Fine no high winds,Car
+BS0000523,,Monday,Data missing or out of range,Not at junction or within 20 metres,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,20:35,Urban,Fine no high winds,Car
+BS0000524,,Wednesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,15:43,Urban,Fine no high winds,Car
+BS0000525,,Friday,Give way or uncontrolled,More than 4 arms (not roundabout),Slight,Daylight,Kensington and Chelsea,,2,2,Metropolitan Police,Dry,Single carriageway,30,13:40,Urban,Fine no high winds,Car
+BS0000526,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,One way street,30,8:00,Urban,Fine no high winds,Car
+BS0000527,,Sunday,Auto traffic signal,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,2,2,Metropolitan Police,Dry,Single carriageway,30,15:21,Urban,Fine + high winds,Car
+BS0000528,,Wednesday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,Kensington and Chelsea,,1,3,Metropolitan Police,Dry,Single carriageway,30,20:00,Urban,Fine no high winds,Car
+BS0000529,,Wednesday,Give way or uncontrolled,T or staggered junction,Serious,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,19:00,Urban,Fine no high winds,Car
+BS0000530,,Wednesday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,2,1,Metropolitan Police,Dry,Single carriageway,30,8:20,Urban,Fine no high winds,Goods 7.5 tonnes mgw and over
+BS0000531,,Wednesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,13:44,Urban,Fine no high winds,Car
+BS0000532,,Tuesday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,17:15,Urban,Fine no high winds,Car
+BS0000533,,Thursday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,14:55,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+BS0000534,,Sunday,Give way or uncontrolled,Roundabout,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Roundabout,30,18:55,Urban,Fine no high winds,Goods 7.5 tonnes mgw and over
+BS0000535,,Saturday,Give way or uncontrolled,Crossroads,Slight,Darkness - lights lit,Kensington and Chelsea,,1,1,Metropolitan Police,Wet or damp,One way street,30,15:50,Urban,Raining no high winds,Motorcycle over 500cc
+BS0000536,,Sunday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Wet or damp,One way street,30,8:30,Urban,Raining no high winds,Van / Goods 3.5 tonnes mgw or under
+BS0000537,,Tuesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,7:58,Urban,Raining no high winds,Van / Goods 3.5 tonnes mgw or under
+BS0000538,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,11:20,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+BS0000539,,Wednesday,Give way or uncontrolled,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,8:25,Urban,Fine no high winds,Car
+BS0000540,,Monday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,20:53,Urban,Fine no high winds,Car
+BS0000541,,Saturday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,11:34,Urban,Fine no high winds,Motorcycle over 500cc
+BS0000542,,Saturday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,20:45,Urban,Fine no high winds,Car
+BS0000543,,Wednesday,Auto traffic signal,Roundabout,Slight,Darkness - lights lit,Hammersmith and Fulham,,1,3,Metropolitan Police,Dry,Dual carriageway,50,17:25,Urban,Fine no high winds,Car
+BS0000544,,Thursday,Give way or uncontrolled,Crossroads,Slight,Darkness - lights lit,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,22:10,Urban,Fine no high winds,Car
+BS0000545,,Saturday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,4:50,Urban,Fine no high winds,Car
+BS0000546,,Friday,Data missing or out of range,Not at junction or within 20 metres,Slight,Darkness - lights lit,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,0:05,Urban,Fine no high winds,Car
+BS0000547,,Saturday,Auto traffic signal,T or staggered junction,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,19:40,Urban,Fine no high winds,Car
+BS0000548,,Friday,Auto traffic signal,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Dual carriageway,30,12:20,Urban,Fine no high winds,Car
+BS0000549,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,One way street,30,6:33,Urban,Fine no high winds,Motorcycle 125cc and under
+BS0000550,,Thursday,Auto traffic signal,Crossroads,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,17:49,Urban,Fine no high winds,Car
+BS0000551,,Wednesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,7:10,Urban,Fine no high winds,Car
+BS0000552,,Friday,Data missing or out of range,Not at junction or within 20 metres,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,16:47,Urban,Raining no high winds,Car
+BS0000553,,Saturday,Give way or uncontrolled,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,One way street,30,15:20,Urban,Fine no high winds,Car
+BS0000554,,Saturday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,16:30,Urban,Fine no high winds,Car
+BS0000555,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,18:24,Urban,Raining no high winds,Car
+BS0000556,,Tuesday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,One way street,30,13:02,Urban,Fine no high winds,Car
+BS0000557,,Thursday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,Kensington and Chelsea,,1,4,Metropolitan Police,Wet or damp,Single carriageway,30,23:49,Urban,Fine no high winds,Car
+BS0000558,,Friday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,7:30,Urban,Fine no high winds,Car
+BS0000559,,Tuesday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,3,Metropolitan Police,Wet or damp,Single carriageway,30,8:30,Urban,Raining no high winds,Car
+BS0000560,,Wednesday,Auto traffic signal,Crossroads,Slight,Darkness - lights lit,Kensington and Chelsea,,1,1,Metropolitan Police,Wet or damp,Dual carriageway,30,23:00,Urban,Raining + high winds,Motorcycle over 500cc
+BS0000561,,Thursday,Give way or uncontrolled,Crossroads,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,17:10,Urban,Raining no high winds,Car
+BS0000562,,Wednesday,Auto traffic signal,Crossroads,Serious,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Wet or damp,Single carriageway,30,9:54,Urban,Fine no high winds,Car
+BS0000563,,Saturday,Data missing or out of range,Not at junction or within 20 metres,Slight,Darkness - lights lit,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,40,3:00,Urban,Fine no high winds,Car
+BS0000564,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,9:10,Urban,Fine no high winds,Car
+BS0000565,,Sunday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,23:07,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+BS0000566,,Sunday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Dual carriageway,30,18:50,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+BS0000567,,Thursday,Give way or uncontrolled,Private drive or entrance,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,15:55,Urban,Fine no high winds,Car
+BS0000568,,Thursday,Give way or uncontrolled,T or staggered junction,Serious,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,9:30,Urban,Fine no high winds,Car
+BS0000569,,Tuesday,Give way or uncontrolled,Roundabout,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Roundabout,30,8:55,Urban,Fine no high winds,Car
+BS0000570,,Monday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,12:20,Urban,Fine no high winds,Car
+BS0000571,,Wednesday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,10:00,Urban,Fine no high winds,Car
+BS0000572,,Monday,Auto traffic signal,Crossroads,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,2:50,Urban,Raining no high winds,Car
+BS0000573,,Thursday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,One way street,30,9:25,Urban,Fine no high winds,Car
+BS0000574,,Thursday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,18:10,Urban,Fine no high winds,Agricultural vehicle
+BS0000575,,Saturday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,23:35,Urban,Raining no high winds,Motorcycle over 500cc
+BS0000576,,Tuesday,Give way or uncontrolled,Roundabout,Slight,Daylight,Hammersmith and Fulham,,1,2,Metropolitan Police,Dry,Roundabout,50,5:40,Urban,Fine no high winds,Car
+BS0000577,,Thursday,Give way or uncontrolled,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,19:20,Urban,Fine no high winds,Car
+BS0000578,,Monday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,9:50,Urban,Fine no high winds,Car
+BS0000579,,Wednesday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,15:10,Urban,Fine no high winds,Car
+BS0000580,,Thursday,Auto traffic signal,Crossroads,Slight,Darkness - lights lit,Kensington and Chelsea,,1,1,Metropolitan Police,Wet or damp,Single carriageway,30,17:35,Urban,Raining no high winds,Car
+BS0000581,,Saturday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,Kensington and Chelsea,,1,1,Metropolitan Police,Wet or damp,Single carriageway,30,20:00,Urban,Raining no high winds,Car
+BS0000582,,Saturday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,Kensington and Chelsea,,1,1,Metropolitan Police,Wet or damp,Single carriageway,30,20:40,Urban,Raining no high winds,Car
+BS0000583,,Monday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Wet or damp,Single carriageway,30,16:45,Urban,Raining no high winds,Car
+BS0000584,,Tuesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,8:11,Urban,Fine no high winds,Car
+BS0000585,,Tuesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Wet or damp,Dual carriageway,30,7:57,Urban,Fine no high winds,Car
+BS0000586,,Tuesday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,13:31,Urban,Fine no high winds,Car
+BS0000587,,Friday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,11:00,Urban,Fine no high winds,Car
+BS0000588,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,11:07,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+BS0000589,,Tuesday,Give way or uncontrolled,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Frost or ice,Single carriageway,30,7:33,Urban,Fine no high winds,Car
+BS0000590,,Thursday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,6:43,Urban,Raining no high winds,Car
+BS0000591,,Thursday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,8:50,Urban,Fine no high winds,Car
+BS0000592,,Friday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,15:45,Urban,Fine no high winds,Car
+BS0000593,,Wednesday,Give way or uncontrolled,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Wet or damp,Single carriageway,30,13:11,Urban,Fine no high winds,Car
+BS0000594,,Thursday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,12:18,Urban,Fine no high winds,Car
+BS0000595,,Saturday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,Kensington and Chelsea,,1,1,Metropolitan Police,Wet or damp,Single carriageway,30,17:55,Urban,Raining no high winds,Car
+BS0000596,,Monday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,8:40,Urban,Fine no high winds,Car
+BS0000597,,Sunday,Auto traffic signal,T or staggered junction,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Wet or damp,Dual carriageway,30,2:50,Urban,Fine no high winds,Car
+BS0000598,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,18:10,Urban,Raining no high winds,Car
+BS0000599,,Monday,Auto traffic signal,T or staggered junction,Serious,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Wet or damp,Dual carriageway,30,18:52,Urban,Fine no high winds,Car
+BS0000600,,Monday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,12:46,Urban,Raining no high winds,Motorcycle 50cc and under
+BS0000601,,Tuesday,Auto traffic signal,T or staggered junction,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,21:23,Urban,Raining no high winds,Car
+BS0000602,,Saturday,Auto traffic signal,T or staggered junction,Fatal,Darkness - lights lit,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,21:00,Urban,Fine no high winds,Car
+BS0000603,,Monday,Data missing or out of range,Not at junction or within 20 metres,Fatal,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,13:40,Urban,Raining no high winds,Car
+BS0000604,,Friday,Give way or uncontrolled,Slip road,Fatal,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Dual carriageway,30,18:45,Urban,Fine no high winds,Car
+BS0000605,,Sunday,Give way or uncontrolled,Roundabout,Fatal,Darkness - lights lit,Kensington and Chelsea,,1,1,Metropolitan Police,Wet or damp,Roundabout,30,16:30,Urban,Raining no high winds,Car
+BS0000606,,Saturday,Auto traffic signal,Crossroads,Fatal,Darkness - lights lit,Kensington and Chelsea,,1,1,Metropolitan Police,Wet or damp,Single carriageway,30,22:20,Urban,Raining no high winds,Van / Goods 3.5 tonnes mgw or under
+BS0000607,,Friday,Auto traffic signal,Crossroads,Fatal,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,21:35,Urban,Fine no high winds,Motorcycle 50cc and under
+BS0000608,,Friday,Give way or uncontrolled,T or staggered junction,Fatal,Darkness - lights lit,Kensington and Chelsea,,1,1,Metropolitan Police,Wet or damp,Single carriageway,30,19:40,Urban,Raining no high winds,Car
+BS0000609,,Wednesday,Give way or uncontrolled,T or staggered junction,Fatal,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,10:00,Urban,Fine no high winds,Motorcycle over 500cc
+BS0000610,,Thursday,Give way or uncontrolled,T or staggered junction,Fatal,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,22:15,Urban,Fine no high winds,Car
+BS0000611,,Thursday,Give way or uncontrolled,T or staggered junction,Fatal,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,13:00,Urban,Fine no high winds,Car
+BS0000612,,Saturday,Give way or uncontrolled,Crossroads,Fatal,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,22:25,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+BS0000613,,Tuesday,Give way or uncontrolled,Crossroads,Fatal,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,21:22,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+BS0000614,,Thursday,Give way or uncontrolled,T or staggered junction,Fatal,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,16:30,Urban,Fine no high winds,Car
+BS0000615,,Monday,Give way or uncontrolled,T or staggered junction,Fatal,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,16:20,Urban,Raining no high winds,Motorcycle over 500cc
+BS0000616,,Thursday,Auto traffic signal,Crossroads,Fatal,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Wet or damp,Single carriageway,30,13:00,Urban,Other,Car
+BS0000617,,Wednesday,Give way or uncontrolled,Crossroads,Fatal,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Wet or damp,Single carriageway,30,14:26,Urban,Snowing no high winds,Car
+BS0000618,,Thursday,Auto traffic signal,More than 4 arms (not roundabout),Fatal,Darkness - lights lit,Kensington and Chelsea,,2,1,Metropolitan Police,Wet or damp,Single carriageway,30,18:26,Urban,Raining no high winds,Car
+BS0000619,,Friday,Give way or uncontrolled,T or staggered junction,Fatal,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,20:10,Urban,Fine no high winds,Car
+BS0000620,,Friday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,13:22,Urban,Fine no high winds,Car
+BS0000621,,Saturday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,3,2,Metropolitan Police,Dry,Single carriageway,30,15:20,Urban,Fine no high winds,Car
+BS0000622,,Wednesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,13:50,Urban,Fine no high winds,Car
+BS0000623,,Thursday,Data missing or out of range,Not at junction or within 20 metres,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Snow,Single carriageway,30,21:30,Urban,Snowing no high winds,Car
+BS0000624,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,Kensington and Chelsea,,1,1,Metropolitan Police,Wet or damp,Single carriageway,30,16:40,Urban,Snowing no high winds,Motorcycle 125cc and under
+BS0000625,,Saturday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,16:30,Urban,Fine no high winds,Car
+BS0000626,,Tuesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,8:56,Urban,Fine no high winds,Car
+BS0000627,,Friday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,7:35,Urban,Fine no high winds,Car
+BS0000628,,Wednesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,9:35,Urban,Fine no high winds,Car
+BS0000629,,Tuesday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,5:50,Urban,Fine no high winds,Car
+BS0000630,,Sunday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,16:10,Urban,Fine no high winds,Motorcycle 125cc and under
+BS0000631,,Monday,Auto traffic signal,Crossroads,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,3:32,Urban,Fine no high winds,Car
+BS0000632,,Tuesday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,14:15,Urban,Fine no high winds,Motorcycle 125cc and under
+BS0000633,,Sunday,Auto traffic signal,Crossroads,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,22:50,Urban,Raining no high winds,Van / Goods 3.5 tonnes mgw or under
+BS0000634,,Friday,Auto traffic signal,Crossroads,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Frost or ice,Dual carriageway,30,21:00,Urban,Fine + high winds,Car
+BS0000635,,Thursday,Auto traffic signal,T or staggered junction,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,0:05,Urban,Raining no high winds,Car
+BS0000636,,Monday,Auto traffic signal,Crossroads,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,15:05,Urban,Fine no high winds,Car
+BS0000637,,Sunday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Dual carriageway,30,11:05,Urban,Fine no high winds,Motorcycle 125cc and under
+BS0000638,,Thursday,Give way or uncontrolled,Private drive or entrance,Serious,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,16:14,Urban,Fine no high winds,Car
+BS0000639,,Saturday,Auto traffic signal,T or staggered junction,Serious,Darkness - lights lit,Kensington and Chelsea,,1,1,Metropolitan Police,Wet or damp,Single carriageway,30,18:20,Urban,Raining no high winds,Car
+BS0000640,,Saturday,Auto traffic signal,More than 4 arms (not roundabout),Serious,Darkness - lights lit,Kensington and Chelsea,,2,1,Metropolitan Police,Wet or damp,Dual carriageway,30,4:11,Urban,Raining no high winds,Van / Goods 3.5 tonnes mgw or under
+BS0000641,,Thursday,Give way or uncontrolled,T or staggered junction,Fatal,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,22:30,Urban,Fine no high winds,Car
+BS0000642,,Saturday,Give way or uncontrolled,T or staggered junction,Serious,Daylight,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Dual carriageway,30,14:34,Urban,Fine no high winds,Motorcycle over 125cc and up to 500cc
+BS0000643,,Thursday,Data missing or out of range,Not at junction or within 20 metres,Fatal,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,8:58,Urban,Fine no high winds,Car
+BS0000644,,Thursday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,8:40,Urban,Fine no high winds,Car
+BS0000645,,Saturday,Data missing or out of range,Not at junction or within 20 metres,Slight,Darkness - lights lit,Kensington and Chelsea,,1,1,Metropolitan Police,Dry,Single carriageway,30,2:00,Urban,Fine no high winds,Car
+BS0000646,,Wednesday,Auto traffic signal,T or staggered junction,Slight,Darkness - lights lit,Kensington and Chelsea,,2,2,Metropolitan Police,Dry,Single carriageway,30,22:30,Urban,Fine no high winds,Car
+BS0000647,,Thursday,Auto traffic signal,Crossroads,Slight,Darkness - lights lit,Kensington and Chelsea,,1,2,Metropolitan Police,Dry,Single carriageway,30,22:20,Urban,Fine no high winds,Car
+BS0000648,,Thursday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,City of London,,1,1,City of London,Dry,Single carriageway,30,17:55,Urban,Fine no high winds,Goods over 3.5t. and under 7.5t
+BS0000649,,Friday,Auto traffic signal,Crossroads,Slight,Darkness - lights lit,City of London,,2,3,City of London,Dry,Dual carriageway,30,23:23,Urban,Fine no high winds,Car
+BS0000650,,Monday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,City of London,,1,2,City of London,Wet or damp,Single carriageway,30,19:15,Urban,Fine no high winds,Car
+BS0000651,,Wednesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,City of London,,2,1,City of London,Dry,Single carriageway,30,7:28,Urban,Fine no high winds,Car
+BS0000652,,Wednesday,Auto traffic signal,Crossroads,Slight,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,10:12,Urban,Fine no high winds,Car
+BS0000653,,Friday,Auto traffic signal,T or staggered junction,Serious,Darkness - lights lit,City of London,,1,1,City of London,Dry,One way street,30,21:27,Urban,Fine no high winds,Car
+BS0000654,,Wednesday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,City of London,,2,1,City of London,Dry,Single carriageway,30,17:01,Urban,Fine no high winds,Car
+BS0000655,,Friday,Auto traffic signal,Crossroads,Slight,Daylight,City of London,,1,1,City of London,Dry,Single carriageway,30,8:10,Urban,Fine no high winds,Car
+BS0000656,,Tuesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,City of London,,1,2,City of London,Dry,One way street,30,10:05,Urban,Fine no high winds,Car
+BS0000657,,Thursday,Give way or uncontrolled,T or staggered junction,Serious,Darkness - lighting unknown,City of London,,1,1,City of London,Wet or damp,Single carriageway,30,7:05,Urban,Raining no high winds,Car
+BS0000658,,Thursday,Data missing or out of range,Not at junction or within 20 metres,Slight,Darkness - lights lit,City of London,,1,2,City of London,Wet or damp,Single carriageway,30,18:42,Urban,Fine no high winds,Motorcycle over 500cc
+BS0000659,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,City of London,,1,2,City of London,Dry,Single carriageway,30,17:40,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+BS0000660,,Wednesday,Data missing or out of range,Not at junction or within 20 metres,Serious,Daylight,City of London,,1,2,City of London,Dry,Dual carriageway,30,12:30,Urban,Fine no high winds,Car
+BS0000661,,Monday,Auto traffic signal,T or staggered junction,Slight,Daylight,City of London,,1,1,City of London,Dry,Single carriageway,30,9:35,Urban,Fine no high winds,Car
+BS0000662,,Tuesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,10:37,Urban,Fine no high winds,Car
+BS0000663,,Thursday,Auto traffic signal,T or staggered junction,Slight,Daylight,City of London,,1,2,City of London,Dry,Dual carriageway,30,8:35,Urban,Fine no high winds,Car
+BS0000664,,Friday,Auto traffic signal,T or staggered junction,Slight,Daylight,City of London,,1,1,City of London,Dry,Single carriageway,30,14:15,Urban,Fine no high winds,Car
+BS0000665,,Tuesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,City of London,,1,2,City of London,Wet or damp,One way street,30,8:25,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+BS0000666,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,City of London,,1,2,City of London,Wet or damp,Single carriageway,30,5:06,Urban,Fine no high winds,Car
+BS0000667,,Wednesday,Auto traffic signal,Crossroads,Slight,Daylight,City of London,,1,2,City of London,Dry,Dual carriageway,30,8:34,Urban,Fine no high winds,Taxi/Private hire car
+BS0000668,,Friday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,City of London,,1,1,City of London,Dry,Single carriageway,30,14:50,Urban,Fine no high winds,Car
+BS0000669,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,City of London,,1,2,City of London,Dry,Single carriageway,30,18:15,Urban,Fine no high winds,Car
+BS0000670,,Monday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,12:33,Urban,Fine no high winds,Car
+BS0000671,,Wednesday,Give way or uncontrolled,Crossroads,Slight,Daylight,City of London,,1,1,City of London,Dry,Single carriageway,30,9:55,Urban,Fine no high winds,Car
+BS0000672,,Wednesday,Give way or uncontrolled,Roundabout,Slight,Daylight,City of London,,1,1,City of London,Dry,Roundabout,30,7:26,Urban,Fine no high winds,Motorcycle 125cc and under
+BS0000673,,Saturday,Data missing or out of range,Not at junction or within 20 metres,Serious,Darkness - lights lit,City of London,,1,1,City of London,Dry,Dual carriageway,30,3:41,Urban,Fine no high winds,Car
+BS0000674,,Friday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,City of London,,1,1,City of London,Dry,One way street,30,8:55,Urban,Fine no high winds,Car
+BS0000675,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,City of London,,1,2,City of London,Dry,Single carriageway,30,17:50,Urban,Fine no high winds,Motorcycle over 500cc
+BS0000676,,Friday,Give way or uncontrolled,T or staggered junction,Serious,Darkness - lights lit,City of London,,1,2,City of London,Dry,Single carriageway,30,23:56,Urban,Fine no high winds,Motorcycle over 500cc
+BS0000677,,Sunday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,City of London,,1,1,City of London,Dry,Single carriageway,30,15:17,Urban,Fine no high winds,Car
+BS0000678,,Tuesday,Give way or uncontrolled,Private drive or entrance,Slight,Darkness - lights lit,City of London,,1,1,City of London,Dry,Single carriageway,30,7:00,Urban,Fine no high winds,Motorcycle over 500cc
+BS0000679,,Friday,Auto traffic signal,Crossroads,Slight,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,14:20,Urban,Fine no high winds,Motorcycle over 500cc
+BS0000680,,Tuesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,City of London,,1,1,City of London,Wet or damp,One way street,30,12:00,Urban,Raining no high winds,Car
+BS0000681,,Wednesday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,10:03,Urban,Fine no high winds,Car
+BS0000682,,Tuesday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,City of London,,1,1,City of London,Wet or damp,Single carriageway,30,9:01,Urban,Other,Car
+BS0000683,,Thursday,Give way or uncontrolled,Private drive or entrance,Slight,Darkness - lights lit,City of London,,1,2,City of London,Wet or damp,Single carriageway,30,18:28,Urban,Raining no high winds,Car
+BS0000684,,Friday,Auto traffic signal,Crossroads,Slight,Daylight,City of London,,1,1,City of London,Dry,Dual carriageway,30,6:38,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+BS0000685,,Thursday,Give way or uncontrolled,Private drive or entrance,Slight,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,14:00,Urban,Fine no high winds,Car
+BS0000686,,Sunday,Auto traffic signal,Roundabout,Slight,Darkness - lights lit,City of London,,2,2,City of London,Dry,Roundabout,30,3:12,Urban,Fine no high winds,Car
+BS0000687,,Friday,Data missing or out of range,Not at junction or within 20 metres,Fatal,Daylight,City of London,,2,1,City of London,Dry,Single carriageway,30,13:23,Urban,Fine no high winds,Car
+BS0000688,,Wednesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,City of London,,1,2,City of London,Wet or damp,Single carriageway,30,9:20,Urban,Fine no high winds,Motorcycle 125cc and under
+BS0000689,,Tuesday,Auto traffic signal,Crossroads,Slight,Darkness - lights lit,City of London,,1,2,City of London,Dry,Dual carriageway,30,19:38,Urban,Fine no high winds,Car
+BS0000690,,Tuesday,Auto traffic signal,Crossroads,Serious,Daylight,City of London,,1,2,City of London,Wet or damp,Single carriageway,30,14:20,Urban,Raining no high winds,Car
+BS0000691,,Tuesday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,City of London,,1,2,City of London,Wet or damp,Single carriageway,30,15:01,Urban,Fine no high winds,Car
+BS0000692,,Tuesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,City of London,,1,2,City of London,Wet or damp,Single carriageway,30,12:45,Urban,Fine no high winds,Car
+BS0000693,,Tuesday,Auto traffic signal,T or staggered junction,Slight,Darkness - lights lit,City of London,,1,2,City of London,Wet or damp,Single carriageway,30,20:50,Urban,Raining no high winds,Van / Goods 3.5 tonnes mgw or under
+BS0000694,,Monday,Auto traffic signal,T or staggered junction,Serious,Daylight,City of London,,1,2,City of London,Dry,Dual carriageway,30,18:27,Urban,Fine no high winds,Car
+BS0000695,,Thursday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,City of London,,1,2,City of London,Dry,Dual carriageway,30,11:55,Urban,Fine no high winds,Car
+BS0000696,,Tuesday,Auto traffic signal,T or staggered junction,Slight,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,12:07,Urban,Fine no high winds,Car
+BS0000697,,Wednesday,Auto traffic signal,T or staggered junction,Serious,Darkness - lights lit,City of London,,1,2,City of London,Dry,Single carriageway,30,19:00,Urban,Fine no high winds,Car
+BS0000698,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,City of London,,1,2,City of London,Dry,One way street,30,19:25,Urban,Fine no high winds,Other vehicle
+BS0000699,,Monday,Auto traffic signal,More than 4 arms (not roundabout),Slight,Daylight,City of London,,1,2,City of London,Dry,Dual carriageway,30,7:50,Urban,Fine no high winds,Car
+BS0000700,,Thursday,Auto traffic signal,More than 4 arms (not roundabout),Serious,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,9:10,Urban,Fine no high winds,Car
+BS0000701,,Monday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,City of London,,1,1,City of London,Wet or damp,Single carriageway,30,16:30,Urban,Raining no high winds,Car
+BS0000702,,Wednesday,Give way or uncontrolled,Crossroads,Slight,Daylight,City of London,,2,1,City of London,Dry,Single carriageway,30,16:20,Urban,Fine no high winds,Car
+BS0000703,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,City of London,,1,2,City of London,Dry,One way street,30,9:30,Urban,Fine no high winds,Car
+BS0000704,,Friday,Data missing or out of range,Not at junction or within 20 metres,Slight,Darkness - lights lit,City of London,,1,2,City of London,Dry,Single carriageway,30,1:35,Urban,Fine no high winds,Car
+BS0000705,,Wednesday,Data missing or out of range,Not at junction or within 20 metres,Serious,Darkness - lights lit,City of London,,1,2,City of London,Dry,Single carriageway,30,5:08,Urban,Fine no high winds,Car
+BS0000706,,Monday,Give way or uncontrolled,Roundabout,Slight,Darkness - lights lit,City of London,,1,2,City of London,Dry,Roundabout,30,16:22,Urban,Fine no high winds,Car
+BS0000707,,Thursday,Give way or uncontrolled,T or staggered junction,Serious,Daylight,City of London,,2,1,City of London,Dry,Single carriageway,30,11:19,Urban,Fine no high winds,Car
+BS0000708,,Thursday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Tower Hamlets,,1,2,Metropolitan Police,Dry,Single carriageway,30,15:05,Urban,Fine no high winds,Car
+BS0000709,,Wednesday,Auto traffic signal,Crossroads,Slight,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,9:30,Urban,Fine no high winds,Car
+BS0000710,,Friday,Give way or uncontrolled,Roundabout,Slight,Darkness - lights lit,City of London,,1,2,City of London,Dry,Roundabout,30,22:30,Urban,Fine no high winds,Car
+BS0000711,,Thursday,Auto traffic signal,T or staggered junction,Slight,Daylight,City of London,,1,2,City of London,Dry,Dual carriageway,30,7:57,Urban,Fine no high winds,Car
+BS0000712,,Friday,Auto traffic signal,Crossroads,Slight,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,12:00,Urban,Fine no high winds,Car
+BS0000713,,Friday,Auto traffic signal,More than 4 arms (not roundabout),Slight,Darkness - lights lit,City of London,,1,1,City of London,Dry,Dual carriageway,30,23:28,Urban,Fine no high winds,Motorcycle 125cc and under
+BS0000714,,Monday,Give way or uncontrolled,Crossroads,Slight,Daylight,City of London,,2,1,City of London,Dry,Single carriageway,30,11:14,Urban,Fine no high winds,Car
+BS0000715,,Monday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,City of London,,1,1,City of London,Dry,Single carriageway,30,13:05,Urban,Fine no high winds,Car
+BS0000716,,Tuesday,Auto traffic signal,Crossroads,Slight,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,17:25,Urban,Fine no high winds,Car
+BS0000717,,Monday,Auto traffic signal,Crossroads,Slight,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,7:35,Urban,Fine no high winds,Car
+BS0000718,,Thursday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,City of London,,1,2,City of London,Wet or damp,Single carriageway,30,17:45,Urban,Fine no high winds,Car
+BS0000719,,Saturday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,City of London,,1,1,City of London,Dry,Single carriageway,30,12:20,Urban,Fine no high winds,Car
+BS0000720,,Wednesday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,City of London,,2,2,City of London,Dry,Single carriageway,30,14:25,Urban,Fine no high winds,Motorcycle over 500cc
+BS0000721,,Tuesday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,City of London,,1,2,City of London,Dry,Dual carriageway,30,11:15,Urban,Fine no high winds,Car
+BS0000722,,Wednesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,City of London,,1,1,City of London,Dry,Single carriageway,30,16:35,Urban,Fine no high winds,Car
+BS0000723,,Tuesday,Auto traffic signal,Crossroads,Slight,Daylight,City of London,,1,1,City of London,Dry,Single carriageway,30,17:30,Urban,Fine no high winds,Goods over 3.5t. and under 7.5t
+BS0000724,,Friday,Data missing or out of range,Not at junction or within 20 metres,Fatal,Darkness - lights lit,City of London,,1,1,City of London,Dry,Single carriageway,30,20:15,Urban,Fine no high winds,Car
+BS0000725,,Friday,Give way or uncontrolled,T or staggered junction,Fatal,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,5:30,Urban,Fine no high winds,Car
+BS0000726,,Tuesday,Auto traffic signal,Crossroads,Fatal,Daylight,City of London,,1,1,City of London,Dry,Single carriageway,30,10:45,Urban,Fine no high winds,Car
+BS0000727,,Monday,Give way or uncontrolled,T or staggered junction,Fatal,Daylight,City of London,,2,2,City of London,Wet or damp,Single carriageway,30,9:54,Urban,Raining no high winds,Car
+BS0000728,,Tuesday,Auto traffic signal,Roundabout,Fatal,Daylight,City of London,,1,2,City of London,Dry,Roundabout,30,8:26,Urban,Fine no high winds,Car
+BS0000729,,Tuesday,Give way or uncontrolled,T or staggered junction,Fatal,Daylight,City of London,,1,1,City of London,Dry,Single carriageway,30,9:15,Urban,Fine no high winds,Car
+BS0000730,,Sunday,Auto traffic signal,Crossroads,Fatal,Daylight,City of London,,2,2,City of London,Dry,Single carriageway,30,13:40,Urban,Fine no high winds,Car
+BS0000731,,Monday,Auto traffic signal,T or staggered junction,Fatal,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,13:05,Urban,Fine no high winds,Car
+BS0000732,,Wednesday,Give way or uncontrolled,Private drive or entrance,Fatal,Daylight,City of London,,1,2,City of London,Dry,Dual carriageway,30,19:25,Urban,Fine no high winds,Car
+BS0000733,,Monday,Auto traffic signal,Crossroads,Fatal,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,6:34,Urban,Fine no high winds,Goods 7.5 tonnes mgw and over
+BS0000734,,Thursday,Data missing or out of range,Not at junction or within 20 metres,Fatal,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,8:45,Urban,Fine no high winds,Car
+BS0000735,,Tuesday,Data missing or out of range,Not at junction or within 20 metres,Fatal,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,9:46,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+BS0000736,,Tuesday,Auto traffic signal,Crossroads,Fatal,Daylight,City of London,,2,1,City of London,Dry,Dual carriageway,30,18:05,Urban,Fine no high winds,Car
+BS0000737,,Tuesday,Give way or uncontrolled,T or staggered junction,Fatal,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,20:10,Urban,Fine no high winds,Car
+BS0000738,,Tuesday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,City of London,,1,1,City of London,Wet or damp,Single carriageway,30,8:26,Urban,Raining no high winds,Car
+BS0000739,,Thursday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,City of London,,2,1,City of London,Dry,Single carriageway,30,17:46,Urban,Fine no high winds,Motorcycle over 500cc
+BS0000740,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,City of London,,1,2,City of London,Wet or damp,Single carriageway,30,10:05,Urban,Raining no high winds,Car
+BS0000741,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,City of London,,1,2,City of London,Wet or damp,Single carriageway,30,9:00,Urban,Raining no high winds,Goods 7.5 tonnes mgw and over
+BS0000742,,Friday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,City of London,,1,1,City of London,Wet or damp,Single carriageway,30,12:45,Urban,Raining no high winds,Car
+BS0000743,,Thursday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,16:30,Urban,Fine no high winds,Car
+BS0000744,,Thursday,Auto traffic signal,T or staggered junction,Serious,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,5:50,Urban,Fine no high winds,Car
+BS0000745,,Wednesday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,City of London,,2,2,City of London,Dry,Single carriageway,30,21:27,Urban,Fine no high winds,Car
+BS0000746,,Friday,Auto traffic signal,Crossroads,Slight,Daylight,City of London,,1,2,City of London,Dry,Dual carriageway,30,18:00,Urban,Fine no high winds,Car
+BS0000747,,Thursday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,City of London,,2,1,City of London,Dry,Single carriageway,30,8:31,Urban,Fine no high winds,Car
+BS0000748,,Thursday,Auto traffic signal,T or staggered junction,Slight,Daylight,City of London,,1,2,City of London,Dry,Dual carriageway,30,15:18,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+BS0000749,,Thursday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,City of London,,1,2,City of London,Dry,Dual carriageway,30,9:00,Urban,Fine no high winds,Car
+BS0000750,,Wednesday,Auto traffic signal,T or staggered junction,Slight,Daylight,City of London,,1,1,City of London,Dry,Single carriageway,30,11:50,Urban,Fine no high winds,Car
+BS0000751,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,10:20,Urban,Fine no high winds,Car
+BS0000752,,Friday,Auto traffic signal,More than 4 arms (not roundabout),Fatal,Daylight,City of London,,1,1,City of London,Dry,Single carriageway,30,18:45,Urban,Fine no high winds,Car
+BS0000753,,Thursday,Auto traffic signal,T or staggered junction,Fatal,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,8:15,Urban,Fine no high winds,Car
+BS0000754,,Thursday,Data missing or out of range,Not at junction or within 20 metres,Fatal,Daylight,Hackney,,1,2,Metropolitan Police,Dry,Single carriageway,30,8:30,Urban,Fine no high winds,Car
+BS0000755,,Saturday,Auto traffic signal,Crossroads,Fatal,Daylight,City of London,,2,1,City of London,Dry,Dual carriageway,30,10:36,Urban,Fine no high winds,Car
+BS0000756,,Saturday,Give way or uncontrolled,T or staggered junction,Fatal,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,19:45,Urban,Fine no high winds,Car
+BS0000757,,Tuesday,Auto traffic signal,Crossroads,Fatal,Daylight,Tower Hamlets,,1,2,Metropolitan Police,Dry,Dual carriageway,30,7:44,Urban,Fine no high winds,Car
+BS0000758,,Tuesday,Auto traffic signal,More than 4 arms (not roundabout),Fatal,Daylight,City of London,,1,1,City of London,Dry,Single carriageway,30,15:59,Urban,Fine no high winds,Car
+BS0000759,,Saturday,Give way or uncontrolled,Roundabout,Fatal,Daylight,City of London,,1,2,City of London,Dry,Roundabout,30,14:00,Urban,Fine no high winds,Car
+BS0000760,,Tuesday,Auto traffic signal,T or staggered junction,Fatal,Daylight,City of London,,1,2,City of London,Wet or damp,Dual carriageway,30,9:15,Urban,Raining no high winds,Motorcycle over 125cc and up to 500cc
+BS0000761,,Friday,Give way or uncontrolled,T or staggered junction,Fatal,Daylight,City of London,,1,2,City of London,Dry,Dual carriageway,30,17:10,Urban,Fine no high winds,Agricultural vehicle
+BS0000762,,Friday,Auto traffic signal,Crossroads,Fatal,Daylight,Camden,,1,1,Metropolitan Police,Wet or damp,Single carriageway,30,6:55,Urban,Fog or mist,Car
+BS0000763,,Thursday,Data missing or out of range,Not at junction or within 20 metres,Fatal,Daylight,City of London,,1,2,City of London,Dry,Dual carriageway,30,8:40,Urban,Fine no high winds,Car
+BS0000764,,Wednesday,Auto traffic signal,T or staggered junction,Fatal,Daylight,City of London,,1,1,City of London,Dry,One way street,30,17:39,Urban,Fine no high winds,Car
+BS0000765,,Wednesday,Auto traffic signal,More than 4 arms (not roundabout),Fatal,Daylight,City of London,,1,1,City of London,Dry,Single carriageway,30,8:55,Urban,Fine no high winds,Car
+BS0000766,,Tuesday,Give way or uncontrolled,T or staggered junction,Fatal,Daylight,City of London,,1,2,City of London,Dry,One way street,30,18:58,Urban,Fine no high winds,Goods 7.5 tonnes mgw and over
+BS0000767,,Monday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,City of London,,1,2,City of London,Dry,Dual carriageway,30,12:41,Urban,Fine no high winds,Car
+BS0000768,,Monday,Give way or uncontrolled,T or staggered junction,Serious,Daylight,City of London,,2,1,City of London,Dry,Single carriageway,30,18:55,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+BS0000769,,Thursday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,City of London,,1,1,City of London,Dry,Single carriageway,30,8:00,Urban,Fine no high winds,Car
+BS0000770,,Friday,Auto traffic signal,T or staggered junction,Slight,Daylight,City of London,,2,1,City of London,Dry,Single carriageway,30,17:14,Urban,Fine no high winds,Car
+BS0000771,,Wednesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,City of London,,1,2,City of London,Dry,Dual carriageway,30,7:04,Urban,Fine no high winds,Car
+BS0000772,,Sunday,Auto traffic signal,T or staggered junction,Slight,Darkness - lights lit,City of London,,1,3,City of London,Dry,Single carriageway,30,3:00,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+BS0000773,,Monday,Give way or uncontrolled,Roundabout,Slight,Daylight,City of London,,1,2,City of London,Dry,Roundabout,30,13:55,Urban,Fine no high winds,Car
+BS0000774,,Monday,Give way or uncontrolled,Crossroads,Serious,Daylight,City of London,,1,1,City of London,Dry,Single carriageway,30,13:43,Urban,Fine no high winds,Car
+BS0000775,,Wednesday,Auto traffic signal,T or staggered junction,Serious,Daylight,City of London,,3,4,City of London,Dry,Dual carriageway,30,7:20,Urban,Fine no high winds,Car
+BS0000776,,Thursday,Give way or uncontrolled,Crossroads,Serious,Daylight,City of London,,1,1,City of London,Dry,Single carriageway,30,8:40,Urban,Fine no high winds,Car
+BS0000777,,Thursday,Auto traffic signal,Crossroads,Slight,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,19:15,Urban,Fine no high winds,Car
+BS0000778,,Friday,Auto traffic signal,More than 4 arms (not roundabout),Slight,Darkness - lights lit,City of London,,1,2,City of London,Dry,Single carriageway,30,21:30,Urban,Fine no high winds,Goods 7.5 tonnes mgw and over
+BS0000779,,Friday,Give way or uncontrolled,T or staggered junction,Serious,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,16:15,Urban,Fine no high winds,Car
+BS0000780,,Wednesday,Auto traffic signal,T or staggered junction,Slight,Darkness - lights lit,City of London,,1,2,City of London,Wet or damp,Dual carriageway,30,23:53,Urban,Raining no high winds,Car
+BS0000781,,Thursday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,14:10,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+BS0000782,,Wednesday,Give way or uncontrolled,Roundabout,Slight,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,10:40,Urban,Fine no high winds,Motorcycle over 125cc and up to 500cc
+BS0000783,,Thursday,Auto traffic signal,Crossroads,Slight,Darkness - lights lit,City of London,,1,2,City of London,Dry,Dual carriageway,30,21:30,Urban,Fine no high winds,Car
+BS0000784,,Friday,Give way or uncontrolled,Roundabout,Slight,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,8:30,Urban,Fine no high winds,Car
+BS0000785,,Friday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,City of London,,1,1,City of London,Dry,Single carriageway,30,18:45,Urban,Fine no high winds,Goods over 3.5t. and under 7.5t
+BS0000786,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,City of London,,1,2,City of London,Dry,Dual carriageway,30,16:44,Urban,Fine no high winds,Agricultural vehicle
+BS0000787,,Sunday,Auto traffic signal,T or staggered junction,Serious,Daylight,City of London,,2,3,City of London,Dry,Single carriageway,30,9:00,Urban,Fine no high winds,Car
+BS0000788,,Monday,Auto traffic signal,Crossroads,Serious,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,8:04,Urban,Fine no high winds,Car
+BS0000789,,Tuesday,Give way or uncontrolled,T or staggered junction,Serious,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,7:00,Urban,Fine no high winds,Car
+BS0000790,,Tuesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,City of London,,1,1,City of London,Wet or damp,Single carriageway,30,17:10,Urban,Fine no high winds,Car
+BS0000791,,Tuesday,Auto traffic signal,Crossroads,Slight,Darkness - lights lit,City of London,,1,2,City of London,Dry,Dual carriageway,30,22:34,Urban,Fine no high winds,Car
+BS0000792,,Thursday,Auto traffic signal,T or staggered junction,Serious,Daylight,City of London,,1,1,City of London,Dry,Single carriageway,30,10:25,Urban,Fine no high winds,Car
+BS0000793,,Friday,Auto traffic signal,T or staggered junction,Slight,Daylight,City of London,,1,1,City of London,Dry,Dual carriageway,30,9:00,Urban,Fine no high winds,Car
+BS0000794,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,18:00,Urban,Fine no high winds,Car
+BS0000795,,Monday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,9:00,Urban,Fine no high winds,Car
+BS0000796,,Tuesday,Give way or uncontrolled,Roundabout,Slight,Darkness - lights lit,City of London,,1,1,City of London,Dry,Single carriageway,30,22:50,Urban,Fine no high winds,Car
+BS0000797,,Tuesday,Auto traffic signal,Crossroads,Slight,Daylight,City of London,,1,2,City of London,Dry,Dual carriageway,30,13:20,Urban,Fine no high winds,Car
+BS0000798,,Thursday,Auto traffic signal,Crossroads,Slight,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,8:38,Urban,Fine no high winds,Motorcycle over 500cc
+BS0000799,,Monday,Auto traffic signal,Crossroads,Slight,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,11:00,Urban,Fine no high winds,Motorcycle over 500cc
+BS0000800,,Friday,Auto traffic signal,Crossroads,Slight,Daylight,City of London,,1,1,City of London,Dry,Single carriageway,30,16:16,Urban,Fine no high winds,Car
+BS0000801,,Monday,Give way or uncontrolled,Crossroads,Slight,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,14:55,Urban,Fine no high winds,Car
+BS0000802,,Tuesday,Data missing or out of range,Not at junction or within 20 metres,Serious,Daylight,City of London,,1,2,City of London,Dry,Dual carriageway,30,19:06,Urban,Fine no high winds,Car
+BS0000803,,Tuesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,8:45,Urban,Fine no high winds,Car
+BS0000804,,Monday,Give way or uncontrolled,T or staggered junction,Serious,Daylight,City of London,,1,2,City of London,Dry,Dual carriageway,30,6:30,Urban,Fine no high winds,Car
+BS0000805,,Tuesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,City of London,,1,2,City of London,Wet or damp,Single carriageway,30,18:26,Urban,Raining no high winds,Car
+BS0000806,,Tuesday,Auto traffic signal,T or staggered junction,Slight,Daylight,City of London,,1,2,City of London,Dry,Dual carriageway,30,12:37,Urban,Fine no high winds,Car
+BS0000807,,Wednesday,Auto traffic signal,T or staggered junction,Slight,Daylight,City of London,,2,1,City of London,Dry,Dual carriageway,30,20:00,Urban,Fine no high winds,Motorcycle over 500cc
+BS0000808,,Tuesday,Auto traffic signal,T or staggered junction,Slight,Daylight,City of London,,1,1,City of London,Wet or damp,Single carriageway,30,16:04,Urban,Fine no high winds,Other vehicle
+BS0000809,,Friday,Auto traffic signal,Crossroads,Slight,Darkness - lights lit,City of London,,1,1,City of London,Wet or damp,Single carriageway,30,23:26,Urban,Fine no high winds,Car
+BS0000810,,Wednesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,City of London,,1,1,City of London,Dry,Single carriageway,30,19:00,Urban,Fine no high winds,Car
+BS0000811,,Wednesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,City of London,,1,1,City of London,Dry,Single carriageway,30,14:33,Urban,Fine no high winds,Motorcycle 125cc and under
+BS0000812,,Friday,Give way or uncontrolled,T or staggered junction,Serious,Darkness - lights lit,City of London,,1,2,City of London,Dry,Single carriageway,30,23:55,Urban,Fine no high winds,Car
+BS0000813,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,9:30,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+BS0000814,,Saturday,Auto traffic signal,Roundabout,Slight,Daylight,City of London,,1,1,City of London,Dry,Roundabout,30,16:57,Urban,Fine no high winds,Motorcycle over 125cc and up to 500cc
+BS0000815,,Saturday,Auto traffic signal,Crossroads,Slight,Darkness - lights lit,City of London,,1,2,City of London,Dry,Single carriageway,30,22:18,Urban,Fine no high winds,Goods over 3.5t. and under 7.5t
+BS0000816,,Monday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,17:30,Urban,Fine no high winds,Car
+BS0000817,,Wednesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,13:50,Urban,Fine no high winds,Car
+BS0000818,,Monday,Auto traffic signal,Crossroads,Slight,Daylight,City of London,,1,2,City of London,Dry,Dual carriageway,30,6:53,Urban,Fine no high winds,Car
+BS0000819,,Wednesday,Auto traffic signal,T or staggered junction,Slight,Daylight,City of London,,1,2,City of London,Wet or damp,Single carriageway,30,15:22,Urban,Raining no high winds,Car
+BS0000820,,Saturday,Auto traffic signal,T or staggered junction,Slight,Daylight,City of London,,2,2,City of London,Dry,Dual carriageway,30,17:40,Urban,Fine no high winds,Motorcycle over 125cc and up to 500cc
+BS0000821,,Thursday,Give way or uncontrolled,T or staggered junction,Serious,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,16:00,Urban,Fine no high winds,Car
+BS0000822,,Friday,Auto traffic signal,More than 4 arms (not roundabout),Slight,Daylight,City of London,,1,2,City of London,Dry,Dual carriageway,30,14:10,Urban,Fine no high winds,Car
+BS0000823,,Thursday,Data missing or out of range,Not at junction or within 20 metres,Serious,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,14:52,Urban,Fine no high winds,Car
+BS0000824,,Wednesday,Data missing or out of range,Not at junction or within 20 metres,Serious,Darkness - lights lit,Southwark,,2,1,Metropolitan Police,Dry,Dual carriageway,30,1:00,Urban,Fine no high winds,Car
+BS0000825,,Monday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,City of London,,1,1,City of London,Dry,Single carriageway,30,9:22,Urban,Fine no high winds,Car
+BS0000826,,Tuesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,City of London,,1,1,City of London,Wet or damp,Dual carriageway,30,14:50,Urban,Raining no high winds,Car
+BS0000827,,Tuesday,Give way or uncontrolled,T or staggered junction,Serious,Daylight,Hackney,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,18:44,Urban,Fine no high winds,Car
+BS0000828,,Wednesday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,City of London,,1,2,City of London,Wet or damp,Single carriageway,30,10:20,Urban,Fine no high winds,Car
+BS0000829,,Wednesday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,City of London,,1,2,City of London,Dry,Dual carriageway,30,9:20,Urban,Fine no high winds,Car
+BS0000830,,Friday,Auto traffic signal,Crossroads,Slight,Daylight,City of London,,1,1,City of London,Dry,Single carriageway,30,15:55,Urban,Fine no high winds,Car
+BS0000831,,Friday,Auto traffic signal,T or staggered junction,Slight,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,18:10,Urban,Fine no high winds,Car
+BS0000832,,Sunday,Data missing or out of range,Not at junction or within 20 metres,Slight,Darkness - lights lit,City of London,,1,2,City of London,Wet or damp,Single carriageway,30,2:51,Urban,Raining no high winds,Taxi/Private hire car
+BS0000833,,Thursday,Give way or uncontrolled,Private drive or entrance,Slight,Daylight,City of London,,1,1,City of London,Wet or damp,Dual carriageway,30,18:30,Urban,Raining no high winds,Car
+BS0000834,,Sunday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,City of London,,1,1,City of London,Dry,Single carriageway,30,18:59,Urban,Fine no high winds,Motorcycle over 500cc
+BS0000835,,Monday,Give way or uncontrolled,Crossroads,Slight,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,17:13,Urban,Fine no high winds,Other vehicle
+BS0000836,,Monday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,18:01,Urban,Fine no high winds,Car
+BS0000837,,Monday,Auto traffic signal,T or staggered junction,Serious,Daylight,City of London,,1,2,City of London,Dry,Dual carriageway,30,8:34,Urban,Fine no high winds,Car
+BS0000838,,Tuesday,Auto traffic signal,Crossroads,Slight,Daylight,City of London,,4,2,City of London,Dry,Single carriageway,30,8:38,Urban,Fine no high winds,Motorcycle 125cc and under
+BS0000839,,Tuesday,Give way or uncontrolled,T or staggered junction,Serious,Daylight,City of London,,1,3,City of London,Dry,Single carriageway,30,9:10,Urban,Fine no high winds,Car
+BS0000840,,Sunday,Auto traffic signal,T or staggered junction,Slight,Daylight,Tower Hamlets,,1,1,Metropolitan Police,Dry,Single carriageway,30,19:33,Urban,Fine no high winds,Car
+BS0000841,,Tuesday,Data missing or out of range,Not at junction or within 20 metres,Serious,Daylight,City of London,,3,4,City of London,Dry,Dual carriageway,30,8:20,Urban,Fine no high winds,Car
+BS0000842,,Tuesday,Give way or uncontrolled,Crossroads,Slight,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,16:38,Urban,Fine no high winds,Car
+BS0000843,,Friday,Auto traffic signal,T or staggered junction,Serious,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,15:00,Urban,Fine no high winds,Car
+BS0000844,,Sunday,Auto traffic signal,T or staggered junction,Slight,Darkness - lights lit,City of London,,1,2,City of London,Dry,Dual carriageway,30,5:37,Urban,Fine no high winds,Goods over 3.5t. and under 7.5t
+BS0000845,,Thursday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,11:00,Urban,Fine no high winds,Taxi/Private hire car
+BS0000846,,Thursday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,13:40,Urban,Fine no high winds,Car
+BS0000847,,Monday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,9:00,Urban,Fine no high winds,Car
+BS0000848,,Monday,Auto traffic signal,Crossroads,Slight,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,14:55,Urban,Fine no high winds,Car
+BS0000849,,Thursday,Give way or uncontrolled,Crossroads,Slight,Daylight,City of London,,4,1,City of London,Dry,Single carriageway,30,12:33,Urban,Fine no high winds,Car
+BS0000850,,Tuesday,Give way or uncontrolled,T or staggered junction,Serious,Darkness - lights lit,City of London,,1,2,City of London,Dry,Single carriageway,30,19:34,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+BS0000851,,Tuesday,Give way or uncontrolled,T or staggered junction,Serious,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,9:40,Urban,Fine no high winds,Agricultural vehicle
+BS0000852,,Thursday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,City of London,,1,2,City of London,Dry,Dual carriageway,30,9:27,Urban,Fine no high winds,Motorcycle over 500cc
+BS0000853,,Wednesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,City of London,,1,1,City of London,Dry,Single carriageway,30,18:40,Urban,Fine no high winds,Car
+BS0000854,,Tuesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,8:43,Urban,Fine no high winds,Motorcycle over 500cc
+BS0000855,,Thursday,Data missing or out of range,Not at junction or within 20 metres,Serious,Daylight,City of London,Pedestrian in carriageway - not injured,1,1,City of London,Dry,Single carriageway,30,8:35,Urban,Fine no high winds,Car
+BS0000856,,Friday,Auto traffic signal,T or staggered junction,Slight,Darkness - lights lit,City of London,,2,1,City of London,Dry,Single carriageway,30,19:42,Urban,Fine no high winds,Motorcycle over 500cc
+BS0000857,,Wednesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,City of London,,1,1,City of London,Dry,Single carriageway,30,9:39,Urban,Fine no high winds,Motorcycle 125cc and under
+BS0000858,,Sunday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,City of London,,1,1,City of London,Dry,Single carriageway,30,6:01,Urban,Fine no high winds,Car
+BS0000859,,Monday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,18:20,Urban,Fine no high winds,Car
+BS0000860,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,City of London,,1,1,City of London,Dry,Dual carriageway,30,19:30,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+BS0000861,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,City of London,,1,1,City of London,Dry,Single carriageway,30,1:53,Urban,Fine no high winds,Taxi/Private hire car
+BS0000862,,Thursday,Give way or uncontrolled,T or staggered junction,Fatal,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,17:17,Urban,Fine no high winds,Car
+BS0000863,,Tuesday,Auto traffic signal,T or staggered junction,Fatal,Darkness - lights lit,City of London,,1,2,City of London,Dry,Dual carriageway,30,6:15,Urban,Fine no high winds,Car
+BS0000864,,Monday,Auto traffic signal,T or staggered junction,Fatal,Daylight,City of London,,1,3,City of London,Dry,Single carriageway,30,12:20,Urban,Fine no high winds,Motorcycle over 500cc
+BS0000865,,Saturday,Give way or uncontrolled,T or staggered junction,Fatal,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,13:03,Urban,Fine no high winds,Car
+BS0000866,,Thursday,Auto traffic signal,More than 4 arms (not roundabout),Fatal,Daylight,City of London,,1,1,City of London,Dry,Single carriageway,30,13:19,Urban,Fine no high winds,Car
+BS0000867,,Tuesday,Give way or uncontrolled,More than 4 arms (not roundabout),Fatal,Daylight,City of London,,1,2,City of London,Wet or damp,Single carriageway,30,19:00,Urban,Raining + high winds,Car
+BS0000868,,Tuesday,Data missing or out of range,Not at junction or within 20 metres,Fatal,Daylight,City of London,,1,2,City of London,Wet or damp,Single carriageway,30,17:34,Urban,Raining no high winds,Car
+BS0000869,,Tuesday,Data missing or out of range,Not at junction or within 20 metres,Fatal,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,8:45,Urban,Fine no high winds,Car
+BS0000870,,Saturday,Auto traffic signal,Crossroads,Fatal,Darkness - lights lit,City of London,,1,2,City of London,Dry,Dual carriageway,30,6:06,Urban,Fine no high winds,Car
+BS0000871,,Wednesday,Data missing or out of range,Not at junction or within 20 metres,Fatal,Daylight,City of London,,1,2,City of London,Wet or damp,Dual carriageway,30,19:00,Urban,Raining no high winds,Car
+BS0000872,,Wednesday,Auto traffic signal,Crossroads,Fatal,Daylight,City of London,,1,2,City of London,Dry,Dual carriageway,30,9:14,Urban,Fine no high winds,Car
+BS0000873,,Thursday,Give way or uncontrolled,T or staggered junction,Fatal,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,12:26,Urban,Fine no high winds,Car
+BS0000874,,Thursday,Auto traffic signal,T or staggered junction,Fatal,Daylight,City of London,,2,4,City of London,Dry,Dual carriageway,30,9:04,Urban,Fine no high winds,Car
+BS0000875,,Monday,Give way or uncontrolled,T or staggered junction,Fatal,Daylight,City of London,,1,1,City of London,Dry,Single carriageway,30,9:56,Urban,Fine no high winds,Motorcycle 125cc and under
+BS0000876,,Friday,Give way or uncontrolled,T or staggered junction,Fatal,Daylight,City of London,,1,1,City of London,Dry,Single carriageway,30,16:50,Urban,Fine no high winds,Car
+BS0000877,,Thursday,Give way or uncontrolled,T or staggered junction,Serious,Darkness - lights lit,City of London,,1,2,City of London,Dry,Dual carriageway,30,19:32,Urban,Fine no high winds,Car
+BS0000878,,Wednesday,Auto traffic signal,T or staggered junction,Serious,Daylight,City of London,,1,2,City of London,Dry,Dual carriageway,30,8:03,Urban,Fine no high winds,Car
+BS0000879,,Wednesday,Give way or uncontrolled,Private drive or entrance,Serious,Daylight,City of London,,1,2,City of London,Wet or damp,Single carriageway,30,13:05,Urban,Raining no high winds,Car
+BS0000880,,Tuesday,Give way or uncontrolled,T or staggered junction,Serious,Daylight,City of London,,1,2,City of London,Dry,Dual carriageway,30,17:45,Urban,Fine no high winds,Car
+BS0000881,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,City of London,,1,1,City of London,Dry,Single carriageway,30,8:50,Urban,Fine no high winds,Car
+BS0000882,,Tuesday,Give way or uncontrolled,Crossroads,Serious,Daylight,Hackney,,1,2,Metropolitan Police,Dry,Single carriageway,30,9:10,Urban,Fine no high winds,Car
+BS0000883,,Friday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,City of London,,1,2,City of London,Dry,Dual carriageway,30,12:45,Urban,Fine no high winds,Car
+BS0000884,,Thursday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,City of London,,1,2,City of London,Dry,Single carriageway,30,20:40,Urban,Fine no high winds,Car
+BS0000885,,Thursday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,City of London,,1,2,City of London,Dry,Dual carriageway,30,18:23,Urban,Fine no high winds,Car
+BS0000886,,Thursday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,14:30,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+BS0000887,,Wednesday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,City of London,,1,2,City of London,Wet or damp,Single carriageway,30,18:33,Urban,Raining no high winds,Car
+BS0000888,,Tuesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,City of London,,1,2,City of London,Wet or damp,Single carriageway,30,8:20,Urban,Fine no high winds,Car
+BS0000889,,Monday,Auto traffic signal,T or staggered junction,Slight,Daylight,City of London,,1,1,City of London,Wet or damp,Single carriageway,30,10:07,Urban,Raining no high winds,Car
+BS0000890,,Monday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,City of London,Pedestrian in carriageway - not injured,1,1,City of London,Wet or damp,Single carriageway,30,16:10,Urban,Fine no high winds,Car
+BS0000891,,Friday,Give way or uncontrolled,Crossroads,Slight,Darkness - lights lit,City of London,,1,2,City of London,Dry,Single carriageway,30,23:40,Urban,Fine no high winds,Car
+BS0000892,,Thursday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,City of London,,1,2,City of London,Dry,Dual carriageway,30,8:10,Urban,Fine no high winds,Car
+BS0000893,,Thursday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,City of London,,1,2,City of London,Dry,Dual carriageway,30,6:40,Urban,Fine no high winds,Car
+BS0000894,,Wednesday,Auto traffic signal,T or staggered junction,Slight,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,13:14,Urban,Fine no high winds,Car
+BS0000895,,Sunday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,City of London,,1,2,City of London,Dry,Single carriageway,30,2:35,Urban,Fine no high winds,Car
+BS0000896,,Saturday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,City of London,,1,1,City of London,Dry,Single carriageway,30,11:43,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+BS0000897,,Thursday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,City of London,,1,1,City of London,Dry,Single carriageway,30,13:32,Urban,Fine no high winds,Car
+BS0000898,,Friday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,11:30,Urban,Fine no high winds,Car
+BS0000899,,Tuesday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,City of London,,1,1,City of London,Dry,Dual carriageway,30,14:15,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+BS0000900,,Wednesday,Give way or uncontrolled,Slip road,Slight,Daylight,City of London,,1,1,City of London,Snow,Single carriageway,30,10:03,Urban,Snowing no high winds,Car
+BS0000901,,Thursday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,City of London,,1,1,City of London,Wet or damp,Single carriageway,30,8:52,Urban,Raining no high winds,Goods 7.5 tonnes mgw and over
+BS0000902,,Monday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,City of London,,2,1,City of London,Dry,Single carriageway,30,15:10,Urban,Fine no high winds,Car
+BS0000903,,Friday,Auto traffic signal,Crossroads,Slight,Darkness - lights lit,City of London,,1,2,City of London,Dry,Dual carriageway,30,20:40,Urban,Fine no high winds,Car
+BS0000904,,Wednesday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,City of London,,5,2,City of London,Dry,Single carriageway,30,22:45,Urban,Fine no high winds,Taxi/Private hire car
+BS0000905,,Wednesday,Data missing or out of range,Not at junction or within 20 metres,Slight,Darkness - lights lit,City of London,,1,1,City of London,Wet or damp,Single carriageway,30,18:48,Urban,Raining no high winds,Goods 7.5 tonnes mgw and over
+BS0000906,,Saturday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,City of London,,1,2,City of London,Wet or damp,Dual carriageway,30,11:09,Urban,Fine no high winds,Car
+BS0000907,,Thursday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,City of London,,1,2,City of London,Dry,One way street,30,21:00,Urban,Fine no high winds,Car
+BS0000908,,Wednesday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,City of London,,1,2,City of London,Wet or damp,Single carriageway,30,16:00,Urban,Raining no high winds,Car
+BS0000909,,Thursday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,City of London,,1,1,City of London,Wet or damp,Single carriageway,30,17:10,Urban,Fine no high winds,Car
+BS0000910,,Wednesday,Give way or uncontrolled,T or staggered junction,Serious,Daylight,City of London,,1,1,City of London,Wet or damp,Single carriageway,30,8:55,Urban,Raining no high winds,Car
+BS0000911,,Thursday,Auto traffic signal,Crossroads,Slight,Daylight,City of London,,1,1,City of London,Dry,Dual carriageway,30,8:25,Urban,Fine no high winds,Car
+BS0000912,,Tuesday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,City of London,,2,1,City of London,Dry,Single carriageway,30,16:59,Urban,Fine no high winds,Car
+BS0000913,,Thursday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,City of London,,1,1,City of London,Wet or damp,Single carriageway,30,9:30,Urban,Raining no high winds,Car
+BS0000914,,Thursday,Auto traffic signal,More than 4 arms (not roundabout),Slight,Darkness - lights lit,City of London,,1,2,City of London,Wet or damp,Single carriageway,30,5:15,Urban,Fine no high winds,Car
+BS0000915,,Friday,Auto traffic signal,T or staggered junction,Slight,Darkness - lights lit,City of London,,1,1,City of London,Dry,Single carriageway,30,7:27,Urban,Fine no high winds,Goods 7.5 tonnes mgw and over
+BS0000916,,Wednesday,Auto traffic signal,T or staggered junction,Slight,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,10:00,Urban,Fine no high winds,Motorcycle over 125cc and up to 500cc
+BS0000917,,Tuesday,Auto traffic signal,Crossroads,Slight,Darkness - lights lit,City of London,,1,1,City of London,Dry,Single carriageway,30,23:30,Urban,Fine no high winds,Car
+BS0000918,,Tuesday,Auto traffic signal,T or staggered junction,Slight,Darkness - lights lit,City of London,,1,1,City of London,Wet or damp,Single carriageway,30,19:55,Urban,Fine no high winds,Motorcycle over 500cc
+BS0000919,,Tuesday,Auto traffic signal,T or staggered junction,Slight,Daylight,City of London,,1,1,City of London,Wet or damp,Single carriageway,30,9:58,Urban,Fine no high winds,Goods 7.5 tonnes mgw and over
+BS0000920,,Monday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,City of London,,1,1,City of London,Wet or damp,Single carriageway,30,13:25,Urban,Fine no high winds,Car
+BS0000921,,Sunday,Auto traffic signal,T or staggered junction,Slight,Darkness - lights lit,City of London,,2,2,City of London,Dry,Single carriageway,30,18:08,Urban,Fine no high winds,Car
+BS0000922,,Saturday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,City of London,,1,1,City of London,Wet or damp,Single carriageway,30,23:35,Urban,Fine no high winds,Car
+BS0000923,,Friday,Auto traffic signal,Crossroads,Slight,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,14:58,Urban,Fine no high winds,Car
+BS0000924,,Friday,Give way or uncontrolled,Crossroads,Slight,Daylight,City of London,,2,1,City of London,Dry,Single carriageway,30,10:59,Urban,Fine no high winds,Motorcycle over 500cc
+BS0000925,,Saturday,Auto traffic signal,T or staggered junction,Slight,Daylight,City of London,,1,2,City of London,Wet or damp,Single carriageway,30,7:38,Urban,Raining no high winds,Car
+BS0000926,,Saturday,Data missing or out of range,Not at junction or within 20 metres,Serious,Darkness - lights lit,City of London,Pedestrian in carriageway - not injured,2,1,City of London,Wet or damp,Single carriageway,30,3:36,Urban,Raining no high winds,Car
+BS0000927,,Friday,Auto traffic signal,Crossroads,Slight,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,10:18,Urban,Fine no high winds,Taxi/Private hire car
+BS0000928,,Tuesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,9:55,Urban,Fine no high winds,Car
+BS0000929,,Wednesday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,City of London,,1,2,City of London,Dry,Single carriageway,30,9:00,Urban,Fine no high winds,Car
+BS0000930,,Friday,Auto traffic signal,Crossroads,Slight,Daylight,City of London,,1,1,City of London,Wet or damp,Single carriageway,30,7:40,Urban,Raining + high winds,Car
+BS0000931,,Wednesday,Data missing or out of range,Not at junction or within 20 metres,Slight,Darkness - lights lit,City of London,,1,2,City of London,Dry,Dual carriageway,30,17:30,Urban,Fine no high winds,Car
+BS0000932,,Wednesday,Give way or uncontrolled,Crossroads,Slight,Daylight,City of London,,1,2,City of London,Dry,Dual carriageway,30,8:34,Urban,Fine no high winds,Car
+BS0000933,,Monday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,City of London,,1,1,City of London,Wet or damp,Single carriageway,30,7:05,Urban,Raining + high winds,Car
+BS0000934,,Friday,Auto traffic signal,T or staggered junction,Slight,Daylight,City of London,,1,1,City of London,Dry,Single carriageway,30,13:50,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+BS0000935,,Tuesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Westminster,,1,1,Metropolitan Police,Dry,Single carriageway,30,11:15,Urban,Fine no high winds,Car
+BS0000936,,Wednesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Camden,,1,2,Metropolitan Police,Dry,Single carriageway,30,9:27,Urban,Fine no high winds,Taxi/Private hire car
+BS0000937,,Monday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Camden,,1,2,Metropolitan Police,Dry,Single carriageway,30,11:30,Urban,Fine no high winds,Car
+BS0000938,,Wednesday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Camden,,2,1,Metropolitan Police,Dry,Single carriageway,30,14:00,Urban,Fine no high winds,Car
+BS0000939,,Tuesday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,Westminster,,1,2,Metropolitan Police,Dry,Single carriageway,30,17:15,Urban,Fine no high winds,Car
+BS0000940,,Tuesday,Auto traffic signal,Roundabout,Slight,Darkness - lights lit,Westminster,,1,2,Metropolitan Police,Dry,Roundabout,30,21:45,Urban,Fine no high winds,Car
+BS0000941,,Wednesday,Auto traffic signal,Crossroads,Slight,Daylight,Westminster,,1,1,Metropolitan Police,Dry,Single carriageway,30,17:27,Urban,Fine no high winds,Car
+BS0000942,,Thursday,Give way or uncontrolled,Private drive or entrance,Slight,Daylight,Westminster,,1,1,Metropolitan Police,Wet or damp,Single carriageway,30,10:08,Urban,Raining no high winds,Van / Goods 3.5 tonnes mgw or under
+BS0000943,,Friday,Data missing or out of range,Not at junction or within 20 metres,Serious,Daylight,Westminster,,1,1,Metropolitan Police,Dry,Single carriageway,30,15:00,Urban,Fine no high winds,Car
+BS0000944,,Thursday,Auto traffic signal,Crossroads,Serious,Daylight,Camden,,1,1,Metropolitan Police,Wet or damp,Dual carriageway,30,11:15,Urban,Raining no high winds,Car
+BS0000945,,Thursday,Data missing or out of range,Not at junction or within 20 metres,Slight,Darkness - lights lit,Camden,,1,1,Metropolitan Police,Dry,Single carriageway,30,17:30,Urban,Fine no high winds,Car
+BS0000946,,Thursday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,Westminster,,1,2,Metropolitan Police,Wet or damp,Dual carriageway,30,18:30,Urban,Raining no high winds,Car
+BS0000947,,Thursday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,Camden,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,17:30,Urban,Fine no high winds,Car
+BS0000948,,Sunday,Auto traffic signal,Crossroads,Slight,Darkness - lights lit,Westminster,,1,1,Metropolitan Police,Wet or damp,Single carriageway,30,18:15,Urban,Raining no high winds,Car
+BS0000949,,Friday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Westminster,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,8:50,Urban,Raining no high winds,Car
+BS0000950,,Thursday,Data missing or out of range,Not at junction or within 20 metres,Serious,Daylight,Camden,,1,1,Metropolitan Police,Wet or damp,Single carriageway,30,13:40,Urban,Raining no high winds,Goods over 3.5t. and under 7.5t
+BS0000951,,Saturday,Auto traffic signal,T or staggered junction,Slight,Darkness - lights lit,Camden,,1,2,Metropolitan Police,Dry,Single carriageway,30,4:10,Urban,Fine no high winds,Car
+BS0000952,,Saturday,Auto traffic signal,Crossroads,Slight,Darkness - lights lit,Westminster,,1,2,Metropolitan Police,Wet or damp,Dual carriageway,30,16:30,Urban,Other,Motorcycle over 500cc
+BS0000953,,Saturday,Data missing or out of range,Not at junction or within 20 metres,Slight,Darkness - lights lit,Brent,,1,1,Metropolitan Police,Dry,Single carriageway,30,19:04,Urban,Fine no high winds,Car
+BS0000954,,Monday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Camden,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,8:40,Urban,Fine no high winds,Taxi/Private hire car
+BS0000955,,Saturday,Auto traffic signal,Crossroads,Slight,Daylight,Westminster,,1,2,Metropolitan Police,Dry,Dual carriageway,30,12:28,Urban,Fine no high winds,Motorcycle over 500cc
+BS0000956,,Tuesday,Auto traffic signal,T or staggered junction,Serious,Darkness - lights lit,Westminster,,2,2,Metropolitan Police,Dry,Dual carriageway,30,0:30,Urban,Fine no high winds,Car
+BS0000957,,Thursday,Auto traffic signal,T or staggered junction,Slight,Darkness - lights lit,Westminster,,1,2,Metropolitan Police,Wet or damp,Dual carriageway,30,18:17,Urban,Other,Car
+BS0000958,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Westminster,,2,1,Metropolitan Police,Wet or damp,Single carriageway,30,9:10,Urban,Raining no high winds,Car
+BS0000959,,Tuesday,Auto traffic signal,Crossroads,Slight,Darkness - lights lit,Westminster,,1,1,Metropolitan Police,Dry,Single carriageway,30,16:50,Urban,Fine no high winds,Car
+BS0000960,,Tuesday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,Westminster,,1,2,Metropolitan Police,Dry,Single carriageway,30,18:14,Urban,Fine no high winds,Car
+BS0000961,,Tuesday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Westminster,,1,2,Metropolitan Police,Dry,Single carriageway,30,18:12,Urban,Fine no high winds,Goods 7.5 tonnes mgw and over
+BS0000962,,Tuesday,Data missing or out of range,Not at junction or within 20 metres,Slight,Darkness - lights lit,Westminster,,2,1,Metropolitan Police,Dry,Dual carriageway,50,21:28,Urban,Fine no high winds,Car
+BS0000963,,Tuesday,Give way or uncontrolled,Crossroads,Slight,Darkness - lights lit,Westminster,,1,2,Metropolitan Police,Dry,Single carriageway,30,19:40,Urban,Fine no high winds,Motorcycle over 500cc
+BS0000964,,Wednesday,Data missing or out of range,Not at junction or within 20 metres,Slight,Darkness - lights lit,Haringey,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,19:04,Urban,Raining no high winds,Car
+BS0000965,,Wednesday,Data missing or out of range,Not at junction or within 20 metres,Slight,Darkness - lights lit,Westminster,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,18:35,Urban,Fine no high winds,Car
+BS0000966,,Tuesday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Camden,,1,2,Metropolitan Police,Dry,Single carriageway,30,12:50,Urban,Fine no high winds,Car
+BS0000967,,Wednesday,Auto traffic signal,Crossroads,Slight,Darkness - lights lit,Westminster,,1,2,Metropolitan Police,Wet or damp,Dual carriageway,30,19:15,Urban,Raining no high winds,Taxi/Private hire car
+BS0000968,,Monday,Auto traffic signal,Crossroads,Slight,Daylight,Westminster,,1,2,Metropolitan Police,Dry,Single carriageway,30,12:30,Urban,Fine no high winds,Car
+BS0000969,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Camden,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,12:42,Urban,Fine no high winds,Motorcycle over 500cc
+BS0000970,,Thursday,Auto traffic signal,T or staggered junction,Slight,Daylight,Westminster,,1,2,Metropolitan Police,Wet or damp,One way street,30,10:45,Urban,Fine no high winds,Car
+BS0000971,,Monday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Camden,,1,1,Metropolitan Police,Dry,One way street,30,9:06,Urban,Fine no high winds,Car
+BS0000972,,Thursday,Give way or uncontrolled,T or staggered junction,Serious,Daylight,Westminster,,1,1,Metropolitan Police,Dry,Dual carriageway,30,15:49,Urban,Fine no high winds,Car
+BS0000973,,Thursday,Auto traffic signal,Crossroads,Slight,Daylight,Westminster,,1,1,Metropolitan Police,Dry,Single carriageway,30,18:34,Urban,Fog or mist,Motorcycle over 125cc and up to 500cc
+BS0000974,,Monday,Data missing or out of range,Not at junction or within 20 metres,Serious,Darkness - lights lit,Camden,,1,1,Metropolitan Police,Dry,Single carriageway,30,17:26,Urban,Fine no high winds,Car
+BS0000975,,Friday,Give way or uncontrolled,Crossroads,Slight,Darkness - lights lit,Camden,,1,2,Metropolitan Police,Dry,Single carriageway,30,17:09,Urban,Fine no high winds,Car
+BS0000976,,Friday,Give way or uncontrolled,Crossroads,Slight,Darkness - lights lit,Westminster,,1,1,Metropolitan Police,Dry,Single carriageway,30,21:10,Urban,Fine no high winds,Motorcycle over 500cc
+BS0000977,,Saturday,Give way or uncontrolled,T or staggered junction,Slight,Darkness - lights lit,Camden,,1,1,Metropolitan Police,Wet or damp,Single carriageway,30,2:50,Urban,Fine no high winds,Car
+BS0000978,,Friday,Auto traffic signal,Crossroads,Slight,Daylight,Camden,,2,2,Metropolitan Police,Dry,Dual carriageway,30,10:54,Urban,Fine no high winds,Car
+BS0000979,,Sunday,Give way or uncontrolled,Mini-roundabout,Slight,Daylight,Westminster,,3,1,Metropolitan Police,Dry,Roundabout,30,12:39,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+BS0000980,,Sunday,Auto traffic signal,Crossroads,Slight,Daylight,Westminster,,2,3,Metropolitan Police,Frost or ice,Single carriageway,30,16:17,Urban,Fine no high winds,Car
+BS0000981,,Sunday,Auto traffic signal,Crossroads,Slight,Darkness - lights lit,Westminster,,2,1,Metropolitan Police,Snow,One way street,30,17:20,Urban,Snowing no high winds,Car
+BS0000982,,Sunday,Auto traffic signal,T or staggered junction,Serious,Darkness - lights lit,Westminster,,1,1,Metropolitan Police,Snow,Single carriageway,30,18:45,Urban,Snowing no high winds,Car
+BS0000983,,Sunday,Data missing or out of range,Not at junction or within 20 metres,Serious,Darkness - lights lit,Camden,,1,2,Metropolitan Police,Snow,Single carriageway,30,21:15,Urban,Snowing no high winds,Other vehicle
+BS0000984,,Sunday,Give way or uncontrolled,Slip road,Serious,Darkness - lights lit,Westminster,,1,1,Metropolitan Police,Snow,Dual carriageway,50,23:32,Urban,Snowing no high winds,Van / Goods 3.5 tonnes mgw or under
+BS0000985,,Monday,Data missing or out of range,Not at junction or within 20 metres,Serious,Darkness - lights lit,Westminster,,2,1,Metropolitan Police,Snow,Dual carriageway,30,0:32,Urban,Snowing no high winds,Car
+BS0000986,,Wednesday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Camden,,1,1,Metropolitan Police,Wet or damp,Single carriageway,30,7:45,Urban,Raining no high winds,Car
+BS0000987,,Tuesday,Auto traffic signal,Crossroads,Slight,Daylight,Camden,,1,1,Metropolitan Police,Frost or ice,Single carriageway,30,14:20,Urban,Fine no high winds,Motorcycle 50cc and under
+BS0000988,,Tuesday,Auto traffic signal,Crossroads,Serious,Darkness - lights lit,Westminster,,1,2,Metropolitan Police,Snow,Single carriageway,30,22:20,Urban,Other,Car
+BS0000989,,Friday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Camden,,1,2,Metropolitan Police,Dry,Single carriageway,30,13:25,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+BS0000990,,Thursday,Give way or uncontrolled,Private drive or entrance,Serious,Daylight,Camden,,1,1,Metropolitan Police,Dry,Single carriageway,30,15:03,Urban,Fine no high winds,Car
+BS0000991,,Sunday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Westminster,,1,1,Metropolitan Police,Dry,Single carriageway,30,14:00,Urban,Fine no high winds,Car
+BS0000992,,Sunday,Data missing or out of range,Not at junction or within 20 metres,Slight,Darkness - lights lit,Westminster,,1,3,Metropolitan Police,Frost or ice,Single carriageway,30,21:25,Urban,Snowing no high winds,Car
+BS0000993,,Thursday,Auto traffic signal,Crossroads,Slight,Darkness - lights lit,Camden,,1,1,Metropolitan Police,Frost or ice,Single carriageway,30,1:25,Urban,Raining no high winds,Car
+BS0000994,,Wednesday,Data missing or out of range,Not at junction or within 20 metres,Slight,Darkness - lights lit,Camden,,1,2,Metropolitan Police,Dry,Single carriageway,30,22:00,Urban,Fine no high winds,Car
+BS0000995,,Thursday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Camden,,1,2,Metropolitan Police,Frost or ice,Single carriageway,30,7:20,Urban,Raining no high winds,Van / Goods 3.5 tonnes mgw or under
+BS0000996,,Thursday,Give way or uncontrolled,T or staggered junction,Slight,Daylight,Westminster,,1,2,Metropolitan Police,Dry,Single carriageway,30,13:08,Urban,Fine no high winds,Car
+BS0000997,,Thursday,Data missing or out of range,Not at junction or within 20 metres,Slight,Daylight,Westminster,,1,1,Metropolitan Police,Wet or damp,One way street,30,16:30,Urban,Fine no high winds,Car
+BS0000998,,Thursday,Auto traffic signal,T or staggered junction,Slight,Darkness - lights lit,Westminster,,1,2,Metropolitan Police,Wet or damp,Single carriageway,30,17:55,Urban,Other,Car
+BS0000999,,Thursday,Auto traffic signal,More than 4 arms (not roundabout),Slight,Daylight,Camden,,1,3,Metropolitan Police,Snow,One way street,30,12:30,Urban,Raining no high winds,Car
+BS0001000,,Thursday,Auto traffic signal,Crossroads,Slight,Darkness - lights lit,Westminster,,1,2,Metropolitan Police,Dry,Single carriageway,30,21:32,Urban,Fine no high winds,Car
